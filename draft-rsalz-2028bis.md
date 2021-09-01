@@ -26,6 +26,8 @@ normative:
   RFC5377: RFC5377
   RFC5378: RFC5378
   RFC8126: RFC8126
+  RFC8712: RFC8712
+  RFC8713: RFC8713
   RFC8715: RFC8715
   RFC8719: RFC8719
   RFC8721: RFC8721
@@ -219,8 +221,9 @@ technical, architectural, procedural, and policy matters
 pertaining to the Internet and its enabling technologies.
 
 The members of the IAB are nominated by a nominations committee (the Nomcom),
-and are approved by the ISOC board.  The IETF Chair is an ex-officio member.
-See {{NOMCOM}} for a detailed description of the Nomcom procedures, Other
+and are approved by the ISOC board.  The IETF Chair is an ex-officio member
+of the board.
+See {{NOMCOM}} for a detailed description of the Nomcom procedures. Other
 matters concerning its organization and operation, are described in the IAB
 charter {{IAB}}.
 
@@ -244,10 +247,9 @@ IANA also is responsible for operating and maintaining
 ##  IETF Secretariat
 
 The administrative functions necessary to support the activities of
-the IETF are performed by a Secretariat consisting of the IETF
-Executive Director and his or her staff. The IETF Executive Director
-is the formal point of contact for matters concerning any and all
-aspects of the Internet standards process, and is responsible for
+the IETF are performed by a Secretariat hired by the IETF LLC.
+The secretariat handles much of the logistics of running the in-person
+meetings, and is responsible for
 maintaining the formal public record of the Internet standards
 process {{IETFPROCS}}.
 
@@ -277,18 +279,33 @@ principles for the copyright licenses are described in {{RFC8721}} and
 The trustees that govern the Trust are selected from the IETF community as
 described in {{RFC8715}}.
 
+# IETF Administration LLC (IETF LLC)
+
+The IETF Administration Limited Liability Corporation provides
+the corporate legal home for the IETF, the IAB, and the IRTF.
+(The IETF Trust is a separate legal entity.)
+
+The IETF LLC is rseponsible for supporting the ongoing operations
+of the IETF, managing its finances and budget, and raising money.
+It regularly reports to the community.
+The LLC is the legal entity who signs contracts, including the
+Secretariat, meeting hotels, tools development contractors, and so on.
+The LLC also responds to legal requests; these are often subpoenas
+in patent suits.
+
+Selection of the LLC Board of Directors is defined in {{RFC8713}}.
+
+The IETF Executive Director handles the daily tasks and management,
+and they are overseen by the LLC Board of Directors.
+
+{{RFC8712, Section 6}} describes the legal relationship between the
+LLC and ISOC.
+
 ##  Internet Society (ISOC)
 
-The Internet Society (ISOC) is an international organization
-concerned with the growth and evolution of the worldwide Internet and
-with the social, political, and technical issues that arise from its
-use.  The ISOC is an organization with individual and organizational
-members.  The ISOC is managed by a Board of Trustees elected by the
-worldwide individual membership.
-
-Internet standardization is an organized activity of the ISOC, with
-the Board of Trustees being responsible for ratifying the procedures
-and rules of the Internet standards process {{IETFPROCS}}.
+ISOC plays a small role in the standards process.
+It appoints the nominations committee chair, confirms IAB candidates,
+and acts as the last resort in appeals process.
 
 The way in which the members of the ISOC Board of Trustees are
 selected, and other matters concerning the operation of the Internet
@@ -296,11 +313,11 @@ Society, are described in the ISOC By Laws {{ISOC}}.
 
 # Security Considerations
 
-Security is not addressed in this memo.
+This document introduces no new security considerations.
 
 # IANA Considerations
 
-None.
+This document has no IANA actions.
 
 # Acknowledgements
 
