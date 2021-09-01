@@ -78,7 +78,7 @@ This section describes the individual roles involved in the process.
 It attempts to list the roles in the order in which they are involved
 in the process, but no meaning is otherwise attached.
 
-##  The Document Editor or Author {#doceditor}
+## The Document Editor or Author {#doceditor}
 
 Most Working Groups focus their efforts on one or more documents
 that capture the results of the group's work.  A Working
@@ -131,7 +131,7 @@ technical and editorial standards of the RFC series.
 The following organizations and organizational roles are involved in
 the Internet standards process.
 
-##  Internet Engineering Task Force (IETF)
+## Internet Engineering Task Force (IETF)
 
 The IETF is an open international
 community of network designers, operators, vendors, researchers,
@@ -207,7 +207,7 @@ and are approved by the IAB.  See {{NOMCOM}} for a detailed
 description of the Nomcom procedures. Other matters concerning its
 organization and operation, are described in the IESG charter {{IESG}}.
 
-##  Internet Architecture Board (IAB)
+## Internet Architecture Board (IAB)
 
 The IAB provides oversight of the architecture of the Internet and its
 protocols.  The IAB must approve all IESG candidates put forward by the
@@ -227,7 +227,7 @@ See {{NOMCOM}} for a detailed description of the Nomcom procedures. Other
 matters concerning its organization and operation, are described in the IAB
 charter {{IAB}}.
 
-##  Internet Assigned Numbers Authority (IANA)
+## Internet Assigned Numbers Authority (IANA)
 
 Many protocol specifications include
 parameters that must be uniquely assigned.  Examples of this
@@ -244,7 +244,7 @@ IANA also is responsible for operating and maintaining
 [several aspects of DNS](https://www.iana.org/domains) and
 [coordination of IP address numbering](https://www.iana.org/numbers).
 
-##  IETF Secretariat
+## IETF Secretariat
 
 The administrative functions necessary to support the activities of
 the IETF are performed by a Secretariat hired by the IETF LLC.
@@ -279,7 +279,7 @@ principles for the copyright licenses are described in {{RFC8721}} and
 The trustees that govern the Trust are selected from the IETF community as
 described in {{RFC8715}}.
 
-# IETF Administration LLC (IETF LLC)
+## IETF Administration LLC (IETF LLC)
 
 The IETF Administration Limited Liability Corporation provides
 the corporate legal home for the IETF, the IAB, and the IRTF.
@@ -301,7 +301,7 @@ and they are overseen by the LLC Board of Directors.
 {{RFC8712, Section 6}} describes the legal relationship between the
 LLC and ISOC.
 
-##  Internet Society (ISOC)
+## Internet Society (ISOC)
 
 ISOC plays a small role in the standards process.
 It appoints the nominations committee chair, confirms IAB candidates,
