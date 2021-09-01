@@ -1,6 +1,7 @@
-# The Entitites Involved in the IETF Standards Process
+# Entities Involved in the IETF Standards Process
 
-This is the working area for the individual Internet-Draft, "The Entitites Involved in the IETF Standards Process".
+This is the working area for the individual Internet-Draft,
+"Entities Involved in the IETF Standards Process".
 
 * [Editor's Copy](https://richsalz.github.io/draft-ietf-rfc2028bis/#go.draft-rsalz-2028bis.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-rsalz-2028bis)
