@@ -251,6 +251,32 @@ aspects of the Internet standards process, and is responsible for
 maintaining the formal public record of the Internet standards
 process {{IETFPROCS}}.
 
+## Internet Research Task Force (IRTF)
+
+While the IRTF generally follows IETF policies and procedures, it is not
+directly involved in the Internet standards process.  It investigates topics
+considered to be too uncertain, too advanced, or insufficiently
+well-understood to be the subject of Internet standardization.  If an IRTF
+activity generates a specification that is sufficiently stable to be
+considered for Internet standardization, the specification is processed
+through the IETF using the rules in this document.
+
+A Working Group may ask an IRTF Research Group for advice or other input.
+
+Details of the organization and operation of the IRTF, the ISRG,
+and its Research Groups may be found in {{IRTF}}.
+
+## The IETF Trust
+
+The IETF Trust holds the copyrights for IETF documents including RFCs, and
+copyright licenses for IETF contribtions including Internet Drafts.  The
+principles for the copyright licenses are described in {{RFC8721}} and
+{{RFC5377}}, and the licenses themselves are online in the
+[Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/).
+
+The trustees that govern the Trust are selected from the IETF community as
+described in {{RFC8715}}.
+
 ##  Internet Society (ISOC)
 
 The Internet Society (ISOC) is an international organization
@@ -267,39 +293,6 @@ and rules of the Internet standards process {{IETFPROCS}}.
 The way in which the members of the ISOC Board of Trustees are
 selected, and other matters concerning the operation of the Internet
 Society, are described in the ISOC By Laws {{ISOC}}.
-
-## Internet Research Task Force
-
-The Internet Research Task Force (IRTF) is not directly involved in
-the Internet standards process.  It investigates topics considered to
-be too uncertain, too advanced, or insufficiently well-understood to
-be the subject of Internet standardization.  When an IRTF activity
-generates a specification that is sufficiently stable to be
-considered for Internet standardization, the specification is
-processed through the IETF using the rules in this document.
-
-The IRTF is composed of individual Research Groups, but its structure
-and mode of operation is much less formal than that of the IETF, due
-in part to the fact that it does not participate directly in the
-Internet standards process.  The organization and program of work of
-the IRTF is overseen by the Internet Research Steering Group (IRSG),
-which consists of the chairs of the IRTF Working Groups.  Details of
-the organization and operation of the IRTF and its Working Groups may
-be found in {{IRTF}}.
-
-An Working Group may ask an IRTF Research Group for advice or
-other input.
-
-## The IETF Trust
-
-The IETF Trust holds the copyrights for IETF documents including RFCs, and
-copyright licenses for IETF contribtions including Internet Drafts.  The
-principles for the copyright licenses are described in {{RFC8721}} and
-{{RFC5377}}, and the licenses themselves are in the Trust Legal Provisions on
-the Trust's web site.
-
-The trustees that govern the Trust are selected from the IETF community as
-described in {{RFC8715}}.
 
 # Security Considerations
 
