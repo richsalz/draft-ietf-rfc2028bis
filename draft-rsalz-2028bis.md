@@ -22,22 +22,19 @@ author:
     org: Akamai Technologies
     email: rsalz@akamai.com
 normative:
+  RFC2028: RFC2028
+  RFC5377: RFC5377
+  RFC5378: RFC5378
+  RFC8126: RFC8126
+  RFC8715: RFC8715
+  RFC8719: RFC8719
+  RFC8721: RFC8721
   IAB: RFC2850
   IESG: RFC3710
   IETFPROCS: RFC2026
   IRTF: RFC2014
   NOMCOM: RFC8713
-  RFC2028: RFC2028
-  RFC5378: RFC5378
-  RFC8721: RFC8721
-  RFC8715: RFC8715
-  RFC8719: RFC8719
-  RFC5377: RFC5377
   WGPROCS: RFC2418
-  IANA:
-    target: https://www.ietf.org/standards/iana
-    title: IANA
-    date: false
   ISOC:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
     title: Amended and restatated By-Laws of the Internet Society
@@ -227,6 +224,23 @@ See {{NOMCOM}} for a detailed description of the Nomcom procedures, Other
 matters concerning its organization and operation, are described in the IAB
 charter {{IAB}}.
 
+##  Internet Assigned Numbers Authority (IANA)
+
+Many protocol specifications include
+parameters that must be uniquely assigned.  Examples of this
+include port numbers, option identifiers within a protocol,
+and so on. The
+Internet Assigned Numbers Authority (IANA) is responsible for
+assigning the values of these protocol parameters for the Internet.
+These registries used to be published as RFCs entitled "Assigned
+Numbers," but are [now maintained online](https://www.iana.org/protocols).
+Assignments are coordinated by writing an "IANA Considerations"
+in a draft, as documented in {{RFC8126}}.
+
+IANA also is responsible for operating and maintaining
+[several aspects of DNS](https://www.iana.org/domains) and
+[coordination of IP address numbering](https://www.iana.org/numbers).
+
 ##  IETF Secretariat
 
 The administrative functions necessary to support the activities of
@@ -237,7 +251,7 @@ aspects of the Internet standards process, and is responsible for
 maintaining the formal public record of the Internet standards
 process {{IETFPROCS}}.
 
-##  Internet Society
+##  Internet Society (ISOC)
 
 The Internet Society (ISOC) is an international organization
 concerned with the growth and evolution of the worldwide Internet and
@@ -253,22 +267,6 @@ and rules of the Internet standards process {{IETFPROCS}}.
 The way in which the members of the ISOC Board of Trustees are
 selected, and other matters concerning the operation of the Internet
 Society, are described in the ISOC By Laws {{ISOC}}.
-
-##  Internet Assigned Numbers Authority
-
-Many protocol specifications include numbers, keywords, and other
-parameters that must be uniquely assigned.  Examples include version
-numbers, protocol numbers, port numbers, and MIB numbers. The
-Internet Assigned Numbers Authority (IANA) is responsible for
-assigning the values of these protocol parameters for the Internet.
-The IANA publishes tables of all currently assigned numbers and
-parameters in RFCs entitled "Assigned Numbers" {{NOMCOM}}. The IANA
-functions as the "top of the pyramid" for DNS and Internet Address
-assignment establishing policies for these functions.
-
-The functions of the IANA are performed by one or more individuals or
-organizations selected in accordance with the procedures defined by
-the IANA charter {{IANA}}.
 
 ## Internet Research Task Force
 
