@@ -277,6 +277,14 @@ be found in {{IRTF}}.
 An IETF working group may ask an IRTF research group for advice or
 other input.
 
+## The IETF Trust
+
+The IETF Trust holds the copyrights for IETF documents including RFCs, and copyright licenses for IETF contribtions including Internet Drafts.
+The principles for the copyright licenses are described in {{RFC8721}} and {{RFC5377}}, and the licenses themselves are in the Trust Legal Provisions
+on the Trust's web site.
+
+The trustees that govern the Trust are selected from the IETF community as described in {{RFC8715}}.
+
 # Security Considerations
 
 Security is not addressed in this memo.
