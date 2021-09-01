@@ -28,6 +28,9 @@ normative:
   IRTF: RFC2014
   NOMCOM: RFC8713
   RFC2028: RFC2028
+  RFC8721: RFC8721
+  RFC8715: RFC8715
+  RFC5377: RFC5377
   WGPROCS: RFC2418
   IANA:
     target: https://www.ietf.org/standards/iana
@@ -279,11 +282,14 @@ other input.
 
 ## The IETF Trust
 
-The IETF Trust holds the copyrights for IETF documents including RFCs, and copyright licenses for IETF contribtions including Internet Drafts.
-The principles for the copyright licenses are described in {{RFC8721}} and {{RFC5377}}, and the licenses themselves are in the Trust Legal Provisions
-on the Trust's web site.
+The IETF Trust holds the copyrights for IETF documents including RFCs, and
+copyright licenses for IETF contribtions including Internet Drafts.  The
+principles for the copyright licenses are described in {{RFC8721}} and
+{{RFC5377}}, and the licenses themselves are in the Trust Legal Provisions on
+the Trust's web site.
 
-The trustees that govern the Trust are selected from the IETF community as described in {{RFC8715}}.
+The trustees that govern the Trust are selected from the IETF community as
+described in {{RFC8715}}.
 
 # Security Considerations
 
