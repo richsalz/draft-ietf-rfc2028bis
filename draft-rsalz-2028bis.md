@@ -37,9 +37,11 @@ normative:
   IANA:
     target: https://www.ietf.org/standards/iana
     title: IANA
+    date: false
   ISOC:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
     title: Amended and restatated By-Laws of the Internet Society
+    date: March, 2021
 
 --- abstract
 
