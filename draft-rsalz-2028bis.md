@@ -1,9 +1,9 @@
 ---
 docname: draft-rsalz-2028bis-latest
-updates: 2028, 3668, 3979, 8717
-title: The Entitities Involved in the IETF Standards Process
+obsoletes: 2028
+title: Entitities Involved in the IETF Standards Process
 category: bcp
-workgroup: ntp
+workgroup: ???
 ipr: trust200902
 
 stand_alone: yes
