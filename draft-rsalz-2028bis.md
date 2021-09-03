@@ -23,14 +23,9 @@ author:
     email: rsalz@akamai.com
 normative:
   RFC2028: RFC2028
-  RFC5377: RFC5377
-  RFC5378: RFC5378
-  RFC8126: RFC8126
-  RFC8712: RFC8712
-  RFC8713: RFC8713
-  RFC8715: RFC8715
-  RFC8719: RFC8719
-  RFC8721: RFC8721
+  IPRPOLICY: RFC5378
+  IANADOCS: RFC8126
+  MEETINGS: RFC8719
   IAB: RFC2850
   IESG: RFC3710
   IETFPROCS: RFC2026
@@ -41,6 +36,10 @@ normative:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
     title: Amended and restatated By-Laws of the Internet Society
     date: March, 2021
+informative:
+  LLCLEGAL: RFC8712
+  COPYRIGHT: RFC8721
+  TRUSTEES: RFC8715
 
 --- abstract
 
@@ -94,7 +93,7 @@ This document will use the term Document Editor.
 
 When a Document Editor is a Chair of the same working group, a
 co-chair should manage the process around the document. If a co-chair is not
-available, the process must be monitored carefully to ensure ensure that the
+available, the process must be monitored carefully to ensure that the
 resulting documents accurately reflect the consensus of the Working Group and
 that all processes are followed. This can be the collective obligation
 of all parties involved in the document.
@@ -109,7 +108,7 @@ met. In particular, the WG chair is the formal point of contact
 between the WG and the IESG, via the Area Director of the area to
 which the WG is assigned.
 
-The details on the selection and responsibilites of an Working
+The details on the selection and responsibilites of a Working
 Group chair can be found in {{WGPROCS}}.
 
 ## The Area Director
@@ -145,7 +144,7 @@ in the development of new Internet Standard specifications.
 The technical work of the IETF is done in its Working Groups, which
 are organized by topics into several
 [Areas](https://www.ietf.org/topics/areas/),
-each one under the the coordination of the Area Director.
+each one under the coordination of the Area Director.
 Working Groups typically have a narrow focus and a lifetime bounded
 by completion of specific tasks as defined in their charter
 and milestones.
@@ -161,7 +160,7 @@ although affiliations are often used for identification.
 Anyone with the time and interest to do so is entitled and urged to
 participate actively in one or more Working Groups and to attend
 IETF meetings which are usually held
-three times a year {{RFC8719}}.
+three times a year {{MEETINGS}}.
 Active Working Group participation is possible without attending
 any in-person meeting.
 
@@ -170,7 +169,7 @@ any relevant current or pending intellectual
 property rights that are reasonably and personally known to the
 participant if they participate in discussions about a specific
 technology.
-The full intellectual property policy is defined in {{RFC5378}}.
+The full intellectual property policy is defined in {{IPRPOLICY}}.
 
 New Working Groups are established by the IESG
 and almost always have a specific and explicit charter.
@@ -216,7 +215,7 @@ NomCom.
 
 The IAB provides oversight of the process used to create Internet
 Standards and serves as an appeal board for complaints of improper
-execution of the standards process {{IETFPROCS}}. In general it acts as source
+execution of the standards process {{IETFPROCS}}. In general, it acts as source
 of advice to the IETF and other entities mentioned here about
 technical, architectural, procedural, and policy matters
 pertaining to the Internet and its enabling technologies.
@@ -239,7 +238,7 @@ assigning the values of these protocol parameters for the Internet.
 These registries used to be published as RFCs entitled "Assigned
 Numbers," but are [now maintained online](https://www.iana.org/protocols).
 Assignments are coordinated by writing an "IANA Considerations"
-in a draft, as documented in {{RFC8126}}.
+in a draft, as documented in {{IANADOCS}}.
 
 IANA also is responsible for operating and maintaining
 [several aspects of DNS](https://www.iana.org/domains) and
@@ -273,12 +272,12 @@ and its Research Groups may be found in {{IRTF}}.
 
 The IETF Trust holds the copyrights for IETF documents including RFCs, and
 copyright licenses for IETF contribtions including Internet Drafts.  The
-principles for the copyright licenses are described in {{RFC8721}} and
-{{RFC5377}}, and the licenses themselves are online in the
+principles for the copyright licenses are described in {{COPYRIGHT}},
+and the licenses themselves are online in the
 [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/).
 
 The trustees that govern the Trust are selected from the IETF community as
-described in {{RFC8715}}.
+described in {{TRUSTEES}}.
 
 ## IETF Administration LLC (IETF LLC)
 
@@ -294,12 +293,12 @@ Secretariat, meeting hotels, tools development contractors, and so on.
 The LLC also responds to legal requests; these are often subpoenas
 in patent suits.
 
-Selection of the LLC Board of Directors is defined in {{RFC8713}}.
+Selection of the LLC Board of Directors is defined in {{NOMCOM}}.
 
 The IETF Executive Director handles the daily tasks and management,
 and they are overseen by the LLC Board of Directors.
 
-{{RFC8712, Section 6}} describes the legal relationship between the
+{{LLCLEGAL, Section 6}} describes the legal relationship between the
 LLC and ISOC.
 
 ## Internet Society (ISOC)
