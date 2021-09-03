@@ -69,7 +69,7 @@ In general, this document refers to individual roles as individuals,
 such as "a Document Editor."
 In reality, many roles are filled by more than one person at the same
 time.
-For clarity, this document does no use phrases like "Chair (or co-chair),"
+For clarity, this document does not use phrases like "Chair (or co-chair),"
 unless strictly necessary to do so.
 
 # Key individuals in the Process
@@ -202,7 +202,8 @@ specifications as Internet Standards.  The IESG is composed of the
 IETF Area Directors and the IETF Chair, who also chairs the IESG and
 is the Area Director for the General Area.
 
-All members of the IESG are nominated by a nominations committee,
+All members of the IESG are nominated by a nominations committee
+(colloquially, NomCom),
 and are approved by the IAB.  See {{NOMCOM}} for a detailed
 description of the Nomcom procedures. Other matters concerning its
 organization and operation, are described in the IESG charter {{IESG}}.
@@ -211,7 +212,7 @@ organization and operation, are described in the IESG charter {{IESG}}.
 
 The IAB provides oversight of the architecture of the Internet and its
 protocols.  The IAB must approve all IESG candidates put forward by the
-IETF nominating committee.
+NomCom.
 
 The IAB provides oversight of the process used to create Internet
 Standards and serves as an appeal board for complaints of improper
@@ -220,7 +221,7 @@ of advice to the IETF and other entities mentioned here about
 technical, architectural, procedural, and policy matters
 pertaining to the Internet and its enabling technologies.
 
-The members of the IAB are nominated by a nominations committee (the Nomcom),
+The members of the IAB are nominated by Nomcom,
 and are approved by the ISOC board.  The IETF Chair is an ex-officio member
 of the board.
 See {{NOMCOM}} for a detailed description of the Nomcom procedures. Other
@@ -303,13 +304,13 @@ LLC and ISOC.
 
 ## Internet Society (ISOC)
 
-ISOC plays a small role in the standards process.
-It appoints the nominations committee chair, confirms IAB candidates,
+ISOC plays a small but important role in the standards process.
+It appoints the NomCom Chair, confirms IAB candidates,
 and acts as the last resort in appeals process.
 
 The way in which the members of the ISOC Board of Trustees are
 selected, and other matters concerning the operation of the Internet
-Society, are described in the ISOC By Laws {{ISOC}}.
+Society, are described in the ISOC By-Laws {{ISOC}}.
 
 # Security Considerations
 
@@ -321,7 +322,6 @@ This document has no IANA actions.
 
 # Acknowledgements
 
-The authors of this document would like to thank the IETF participants at the time
-{{RFC2028}} was written; in particular, those involved with what was called the
-POISED effort and the authors of that document, Richard Hovey
-and Scott Bradner.
+The author of this document would like to thank the IETF participants at the
+time {{RFC2028}} was written; in particular, those involved with the POISED
+effort and the authors of that document, Richard Hovey and Scott Bradner.
