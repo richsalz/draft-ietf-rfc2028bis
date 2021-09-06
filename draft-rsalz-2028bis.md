@@ -271,7 +271,7 @@ and its Research Groups may be found in {{IRTF}}.
 ## The IETF Trust
 
 The IETF Trust holds the copyrights for IETF documents including RFCs, and
-copyright licenses for IETF contribtions including Internet Drafts.  The
+copyright licenses for IETF contributions including Internet Drafts.  The
 principles for the copyright licenses are described in {{COPYRIGHT}},
 and the licenses themselves are online in the
 [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/).
@@ -285,7 +285,7 @@ The IETF Administration Limited Liability Corporation provides
 the corporate legal home for the IETF, the IAB, and the IRTF.
 (The IETF Trust is a separate legal entity.)
 
-The IETF LLC is rseponsible for supporting the ongoing operations
+The IETF LLC is responsible for supporting the ongoing operations
 of the IETF, managing its finances and budget, and raising money.
 It regularly reports to the community.
 The LLC is the legal entity who signs contracts, including the
