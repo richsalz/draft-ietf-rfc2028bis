@@ -237,7 +237,7 @@ Internet Assigned Numbers Authority (IANA) is responsible for
 assigning the values of these protocol parameters for the Internet.
 These registries used to be published as RFCs entitled "Assigned
 Numbers," but are [now maintained online](https://www.iana.org/protocols).
-Assignments are coordinated by writing an "IANA Considerations"
+Assignments are coordinated by writing an "IANA Considerations" section
 in a draft, as documented in {{IANADOCS}}.
 
 IANA also is responsible for operating and maintaining
@@ -305,7 +305,7 @@ LLC and ISOC.
 
 ISOC plays a small but important role in the standards process.
 It appoints the NomCom Chair, confirms IAB candidates,
-and acts as the last resort in appeals process.
+and acts as the last resort in the appeals process.
 
 The way in which the members of the ISOC Board of Trustees are
 selected, and other matters concerning the operation of the Internet
