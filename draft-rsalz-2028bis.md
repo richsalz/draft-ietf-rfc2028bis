@@ -204,7 +204,7 @@ is the Area Director for the General Area.
 All members of the IESG are nominated by a nominations committee
 (colloquially, NomCom),
 and are approved by the IAB.  See {{NOMCOM}} for a detailed
-description of the Nomcom procedures. Other matters concerning its
+description of the NomCom procedures. Other matters concerning its
 organization and operation, are described in the IESG charter {{IESG}}.
 
 ## Internet Architecture Board (IAB)
@@ -220,10 +220,10 @@ of advice to the IETF and other entities mentioned here about
 technical, architectural, procedural, and policy matters
 pertaining to the Internet and its enabling technologies.
 
-The members of the IAB are nominated by Nomcom,
+The members of the IAB are nominated by NomCom,
 and are approved by the ISOC board.  The IETF Chair is an ex-officio member
 of the board.
-See {{NOMCOM}} for a detailed description of the Nomcom procedures. Other
+See {{NOMCOM}} for a detailed description of the NomCom procedures. Other
 matters concerning its organization and operation, are described in the IAB
 charter {{IAB}}.
 
