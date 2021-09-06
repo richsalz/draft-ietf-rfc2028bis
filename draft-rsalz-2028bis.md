@@ -248,7 +248,7 @@ IANA also is responsible for operating and maintaining
 
 The administrative functions necessary to support the activities of
 the IETF are performed by a Secretariat hired by the IETF LLC.
-The secretariat handles much of the logistics of running the in-person
+The Secretariat handles much of the logistics of running the in-person
 meetings, and is responsible for
 maintaining the formal public record of the Internet standards
 process {{IETFPROCS}}.
