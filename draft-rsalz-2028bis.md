@@ -71,7 +71,7 @@ time.
 For clarity, this document does not use phrases like "Chair (or co-chair),"
 unless strictly necessary to do so.
 
-# Key individuals in the Process
+# Key Individuals in the Process
 
 This section describes the individual roles involved in the process.
 It attempts to list the roles in the order in which they are involved
@@ -125,7 +125,7 @@ responsible both for the
 mechanics of RFC publication and for upholding the
 technical and editorial standards of the RFC series.
 
-# Key organizations in the Process
+# Key Organizations in the Process
 
 The following organizations and organizational roles are involved in
 the Internet standards process.
