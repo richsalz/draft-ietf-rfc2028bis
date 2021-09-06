@@ -84,14 +84,14 @@ that capture the results of the group's work.  A Working
 Group generally designates a person to serve as the Editor
 for a particular document.  The Document Editor is responsible for
 ensuring that the contents of the document accurately reflect the
-decisions that have been made by the working group.
+decisions that have been made by the Working Group.
 
 When a document is composed and edited mainly by an individual,
 they may be referred to as the Document Author. The distinction is
 not significant.
 This document will use the term Document Editor.
 
-When a Document Editor is a Chair of the same working group, a
+When a Document Editor is a Chair of the same Working Group, a
 co-chair should manage the process around the document. If a co-chair is not
 available, the process must be monitored carefully to ensure that the
 resulting documents accurately reflect the consensus of the Working Group and
@@ -114,7 +114,7 @@ Group chair can be found in {{WGPROCS}}.
 ## The Area Director
 
 The Area Director assigned as the "Reponsible Area Director" for the
-working will review the document after the working has approved its
+Working Group will review the document after the Working Group has approved its
 last call, and when satisfied will request it to be put on the IESG
 agenda.
 
