@@ -276,9 +276,9 @@ described in {{TRUSTEES}}.
 
 ## IETF Administration LLC (IETF LLC)
 
-The IETF Administration Limited Liability Corporation provides
+The IETF Administration Limited Liability Corporation
+(colloquially, the LLC) provides
 the corporate legal home for the IETF, the IAB, and the IRTF.
-(The IETF Trust is a separate legal entity.)
 
 The IETF LLC is responsible for supporting the ongoing operations
 of the IETF, managing its finances and budget, and raising money.
