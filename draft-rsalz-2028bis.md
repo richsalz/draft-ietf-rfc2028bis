@@ -71,7 +71,7 @@ time.
 For clarity, this document does not use phrases like "Chair (or co-chair),"
 unless strictly necessary to do so.
 
-# Key individuals in the Process
+# Key Individuals in the Process
 
 This section describes the individual roles involved in the process.
 It attempts to list the roles in the order in which they are involved
@@ -84,14 +84,14 @@ that capture the results of the group's work.  A Working
 Group generally designates a person to serve as the Editor
 for a particular document.  The Document Editor is responsible for
 ensuring that the contents of the document accurately reflect the
-decisions that have been made by the working group.
+decisions that have been made by the Working Group.
 
 When a document is composed and edited mainly by an individual,
 they may be referred to as the Document Author. The distinction is
 not significant.
 This document will use the term Document Editor.
 
-When a Document Editor is a Chair of the same working group, a
+When a Document Editor is a Chair of the same Working Group, a
 co-chair should manage the process around the document. If a co-chair is not
 available, the process must be monitored carefully to ensure that the
 resulting documents accurately reflect the consensus of the Working Group and
@@ -114,7 +114,7 @@ Group chair can be found in {{WGPROCS}}.
 ## The Area Director
 
 The Area Director assigned as the "Reponsible Area Director" for the
-working will review the document after the working has approved its
+Working Group will review the document after the Working Group has approved its
 last call, and when satisfied will request it to be put on the IESG
 agenda.
 
@@ -125,7 +125,7 @@ responsible both for the
 mechanics of RFC publication and for upholding the
 technical and editorial standards of the RFC series.
 
-# Key organizations in the Process
+# Key Organizations in the Process
 
 The following organizations and organizational roles are involved in
 the Internet standards process.
@@ -204,7 +204,7 @@ is the Area Director for the General Area.
 All members of the IESG are nominated by a nominations committee
 (colloquially, NomCom),
 and are approved by the IAB.  See {{NOMCOM}} for a detailed
-description of the Nomcom procedures. Other matters concerning its
+description of the NomCom procedures. Other matters concerning its
 organization and operation, are described in the IESG charter {{IESG}}.
 
 ## Internet Architecture Board (IAB)
@@ -220,10 +220,10 @@ of advice to the IETF and other entities mentioned here about
 technical, architectural, procedural, and policy matters
 pertaining to the Internet and its enabling technologies.
 
-The members of the IAB are nominated by Nomcom,
+The members of the IAB are nominated by NomCom,
 and are approved by the ISOC board.  The IETF Chair is an ex-officio member
 of the board.
-See {{NOMCOM}} for a detailed description of the Nomcom procedures. Other
+See {{NOMCOM}} for a detailed description of the NomCom procedures. Other
 matters concerning its organization and operation, are described in the IAB
 charter {{IAB}}.
 
@@ -237,7 +237,7 @@ Internet Assigned Numbers Authority (IANA) is responsible for
 assigning the values of these protocol parameters for the Internet.
 These registries used to be published as RFCs entitled "Assigned
 Numbers," but are [now maintained online](https://www.iana.org/protocols).
-Assignments are coordinated by writing an "IANA Considerations"
+Assignments are coordinated by writing an "IANA Considerations" section
 in a draft, as documented in {{IANADOCS}}.
 
 IANA also is responsible for operating and maintaining
@@ -248,7 +248,7 @@ IANA also is responsible for operating and maintaining
 
 The administrative functions necessary to support the activities of
 the IETF are performed by a Secretariat hired by the IETF LLC.
-The secretariat handles much of the logistics of running the in-person
+The Secretariat handles much of the logistics of running the in-person
 meetings, and is responsible for
 maintaining the formal public record of the Internet standards
 process {{IETFPROCS}}.
@@ -271,7 +271,7 @@ and its Research Groups may be found in {{IRTF}}.
 ## The IETF Trust
 
 The IETF Trust holds the copyrights for IETF documents including RFCs, and
-copyright licenses for IETF contribtions including Internet Drafts.  The
+copyright licenses for IETF contributions including Internet Drafts.  The
 principles for the copyright licenses are described in {{COPYRIGHT}},
 and the licenses themselves are online in the
 [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/).
@@ -285,7 +285,7 @@ The IETF Administration Limited Liability Corporation provides
 the corporate legal home for the IETF, the IAB, and the IRTF.
 (The IETF Trust is a separate legal entity.)
 
-The IETF LLC is rseponsible for supporting the ongoing operations
+The IETF LLC is responsible for supporting the ongoing operations
 of the IETF, managing its finances and budget, and raising money.
 It regularly reports to the community.
 The LLC is the legal entity who signs contracts, including the
@@ -305,7 +305,7 @@ LLC and ISOC.
 
 ISOC plays a small but important role in the standards process.
 It appoints the NomCom Chair, confirms IAB candidates,
-and acts as the last resort in appeals process.
+and acts as the last resort in the appeals process.
 
 The way in which the members of the ISOC Board of Trustees are
 selected, and other matters concerning the operation of the Internet
