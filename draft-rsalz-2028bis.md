@@ -36,7 +36,7 @@ normative:
   WGPROCS: BCP25
   ISOC:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
-    title: Amended and restatated By-Laws of the Internet Society
+    title: Amended and restated By-Laws of the Internet Society
     date: March, 2021
 informative:
   ISOCIETF: RFC8712
