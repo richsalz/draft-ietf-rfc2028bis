@@ -23,21 +23,23 @@ author:
     email: rsalz@akamai.com
 normative:
   RFC2028: RFC2028
-  IPRPOLICY: RFC5378
-  IANADOCS: RFC8126
+  IANAMOU: RFC2860
+  IANADOCS: BCP26
   MEETINGS: RFC8719
-  IAB: RFC2850
+  IAB: BCP39
   IESG: RFC3710
-  IETFPROCS: RFC2026
+  IETFPROCS: BCP9
   IRTF: RFC2014
-  NOMCOM: RFC8713
-  WGPROCS: RFC2418
+  NOMCOM: BCP10
+  IPRRIGHTS1: BCP78
+  IPRRIGHTS2: BCP79
+  WGPROCS: BCP25
   ISOC:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
     title: Amended and restatated By-Laws of the Internet Society
     date: March, 2021
 informative:
-  LLCLEGAL: RFC8712
+  ISOCIETF: RFC8712
   COPYRIGHT: RFC8721
   TRUSTEES: RFC8715
 
@@ -46,7 +48,7 @@ informative:
 This document describes the individuals and organizations involved in
 the IETF standards process as described in {{IETFPROCS}}.
 It includes brief descriptions of the entities involved,
-and the role they place in the standards process.
+and the role they play in the standards process.
 
 --- middle
 
@@ -57,8 +59,7 @@ protocols and procedures is described in {{IETFPROCS}}.
 That document defines
 the stages in the standardization process, the requirements for
 moving a document between stages, and the types of documents used
-during this process. It also addresses the intellectual property
-rights and copyright issues associated with the standards process.
+during this process.
 This document identifies some of the key individual and organizations
 and the roles they play in that process.
 
@@ -169,7 +170,8 @@ any relevant current or pending intellectual
 property rights that are reasonably and personally known to the
 participant if they participate in discussions about a specific
 technology.
-The full intellectual property policy is defined in {{IPRPOLICY}}.
+The full intellectual property policy is defined in {{IPRRIGHTS1}} and
+{{IPRRIGHTS2}}.
 
 New Working Groups are established by the IESG
 and almost always have a specific and explicit charter.
@@ -239,19 +241,12 @@ These registries used to be published as RFCs entitled "Assigned
 Numbers," but are [now maintained online](https://www.iana.org/protocols).
 Assignments are coordinated by writing an "IANA Considerations" section
 in a draft, as documented in {{IANADOCS}}.
+The IETF's relationship with IANA is defined by formal agreements,
+including {{IANAMOU}}.
 
 IANA also is responsible for operating and maintaining
 [several aspects of DNS](https://www.iana.org/domains) and
-[coordination of IP address numbering](https://www.iana.org/numbers).
-
-## IETF Secretariat
-
-The administrative functions necessary to support the activities of
-the IETF are performed by a Secretariat hired by the IETF LLC.
-The Secretariat handles much of the logistics of running the in-person
-meetings, and is responsible for
-maintaining the formal public record of the Internet standards
-process {{IETFPROCS}}.
+[coordination of IP address assignment](https://www.iana.org/numbers).
 
 ## Internet Research Task Force (IRTF)
 
@@ -272,8 +267,8 @@ and its Research Groups may be found in {{IRTF}}.
 
 The IETF Trust holds the copyrights for IETF documents including RFCs, and
 copyright licenses for IETF contributions including Internet Drafts.  The
-principles for the copyright licenses are described in {{COPYRIGHT}},
-and the licenses themselves are online in the
+principles for the copyright licenses are described in {{IPRRIGHTS1}}
+and {{COPYRIGHT}}, and the licenses themselves are online in the
 [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/).
 
 The trustees that govern the Trust are selected from the IETF community as
@@ -298,12 +293,25 @@ Selection of the LLC Board of Directors is defined in {{NOMCOM}}.
 The IETF Executive Director handles the daily tasks and management,
 and they are overseen by the LLC Board of Directors.
 
-{{LLCLEGAL, Section 6}} describes the legal relationship between the
+{{ISOCIETF, Section 6}} describes the legal relationship between the
 LLC and ISOC.
+
+## IETF Secretariat
+
+The administrative functions necessary to support the activities of
+the IETF are performed by a Secretariat hired by the IETF LLC.
+The Secretariat handles much of the logistics of running the in-person
+meetings, and is responsible for
+maintaining the formal public record of the Internet standards
+process {{IETFPROCS}}.
 
 ## Internet Society (ISOC)
 
-ISOC plays a small but important role in the standards process.
+Internet standardization is an organized activity of the ISOC, with
+the Board of Trustees being responsible for ratifying the procedures
+and rules of the Internet standards process {{ISOCIETF}}.
+
+ISOC also plays an important role in the standards process.
 It appoints the NomCom Chair, confirms IAB candidates,
 and acts as the last resort in the appeals process.
 
