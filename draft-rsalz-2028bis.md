@@ -291,7 +291,7 @@ in patent suits.
 Selection of the LLC Board of Directors is defined in {{NOMCOM}}.
 
 The IETF Executive Director handles the daily tasks and management,
-and they are overseen by the LLC Board of Directors.
+and is overseen by the LLC Board of Directors.
 
 {{ISOCIETF, Section 6}} describes the legal relationship between the
 LLC and ISOC.
