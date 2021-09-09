@@ -30,9 +30,12 @@ normative:
   IESG: RFC3710
   IETFPROCS: BCP9
   IRTF: RFC2014
-  NOMCOM: BCP10
+  IABIRTF: RFC4440
+  IRTFPRIMER: RFC7418
+  IRTFCHAIR: RFC7827
   IPRRIGHTS1: BCP78
   IPRRIGHTS2: BCP79
+  NOMCOM: BCP10
   WGPROCS: BCP25
   ISOC:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
@@ -250,18 +253,24 @@ IANA also is responsible for operating and maintaining
 
 ## Internet Research Task Force (IRTF)
 
-While the IRTF generally follows IETF policies and procedures, it is not
-directly involved in the Internet standards process.  It investigates topics
-considered to be too uncertain, too advanced, or insufficiently
-well-understood to be the subject of Internet standardization.  If an IRTF
-activity generates a specification that is sufficiently stable to be
-considered for Internet standardization, the specification is processed
-through the IETF using the rules in this document.
+The IRTF focuses on longer term research issues related to the Internet while
+the parallel organization, the Internet Engineering Task Force (IETF),
+focuses on the shorter term issues of engineering and standards making.
 
-A Working Group may ask an IRTF Research Group for advice or other input.
+The products of IRTF research groups are typically research results that are
+published in scholarly conferences and journals. Research groups also
+sometimes develop experimental protocols or technologies that may be suitable
+for possible standardisation in IETF. Similarly, IETF working groups
+sometimes ask research groups for advice or other input.  Contributions from
+research groups, however, carry no more weight than other community input,
+and go through the same standards setting process as any other proposal.
 
-Details of the organization and operation of the IRTF, the ISRG,
-and its Research Groups may be found in {{IRTF}}.
+The IRTF is managed by the IRTF Chair in consultation with the Internet
+Research Steering Group (IRSG).  The IRSG membership includes the IRTF Chair,
+the chairs of the various Research Group and possibly other individuals
+("members at large") from the research community. Details of the organization
+and operation of the IRTF, the ISRG, and its Research Groups may be found in
+{{IRTF}}, {{IABIRTF}}, {{IRTFPRIMER}}, and {{IRTFCHAIR}}.
 
 ## The IETF Trust
 
