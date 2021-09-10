@@ -297,7 +297,7 @@ The IETF Executive Director handles the daily tasks and management,
 and is overseen by the LLC Board of Directors.
 
 {{ISOCIETF, Section 6}} describes the legal relationship between the
-LLC and Internet Society.
+LLC and the Internet Society.
 
 ## IETF Secretariat
 
