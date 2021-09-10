@@ -267,9 +267,10 @@ and its Research Groups may be found in {{IRTF}}.
 
 ## The IETF Trust
 
-The IETF Trust holds IETF trademarks,
-the copyrights for IETF documents including RFCs, and
-copyright licenses for IETF contributions including Internet Drafts.  The
+The IETF Trust is the legal owner of a number of intellectual
+properties for the IETF and others (such as IANA).
+This includes the IETF trademarks,
+the copyright licenses for IETF contributions including Internet Drafts.  The
 principles for the copyright licenses are described in {{IPRRIGHTS1}}
 and {{COPYRIGHT}}, and the licenses themselves are online in the
 [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/).
