@@ -268,7 +268,7 @@ and go through the same standards setting process as any other proposal.
 The IRTF is managed by the IRTF Chair in consultation with the Internet
 Research Steering Group (IRSG).  The IRSG membership includes the IRTF Chair,
 the chairs of the various Research Group and possibly other individuals
-("members at large") from the research community. Details of the organization
+("members at large") from the community. Details of the organization
 and operation of the IRTF, the ISRG, and its Research Groups may be found in
 {{IRTF}}, {{IABIRTF}}, {{IRTFPRIMER}}, and {{IRTFCHAIR}}.
 
