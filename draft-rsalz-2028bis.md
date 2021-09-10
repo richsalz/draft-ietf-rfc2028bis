@@ -225,8 +225,8 @@ pertaining to the Internet and its enabling technologies.
 
 The members of the IAB are nominated by NomCom,
 and are confirmed by the Internet Society Board.
-The IETF Chair and the IRTF Chair are an ex-officio members
-of the IAB.
+The IETF Chair is also a member of the IAB, and the IRTF
+Chair is an ex-officio member.
 See {{NOMCOM}} for a detailed description of the NomCom procedures. Other
 matters concerning its organization and operation, are described in the IAB
 charter {{IAB}}.
