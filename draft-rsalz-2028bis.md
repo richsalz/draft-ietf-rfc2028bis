@@ -259,7 +259,7 @@ focuses on the shorter term issues of engineering and standards making.
 
 The products of IRTF research groups are typically research results that are
 published in scholarly conferences and journals. Research groups also
-sometimes develop experimental protocols or technologies that may be suitable
+sometimes develop experimental protocols or technologies, some of which may be suitable
 for possible standardisation in IETF. Similarly, IETF working groups
 sometimes ask research groups for advice or other input.  Contributions from
 research groups, however, carry no more weight than other community input,
