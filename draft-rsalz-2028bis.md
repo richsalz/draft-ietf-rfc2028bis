@@ -205,10 +205,11 @@ approval of new Working Groups and the final approval of
 specifications as Internet Standards.  The IESG is composed of the
 IETF Area Directors and the IETF Chair, who also chairs the IESG and
 is the Area Director for the General Area.
+The IAB Chair is an ex-officio member of the IESG.
 
 All members of the IESG are nominated by a nominations committee
 (colloquially, NomCom),
-and are approved by the IAB.  See {{NOMCOM}} for a detailed
+and are confirmed by the IAB.  See {{NOMCOM}} for a detailed
 description of the NomCom procedures. Other matters concerning its
 organization and operation, are described in the IESG charter {{IESG}}.
 
@@ -226,8 +227,9 @@ technical, architectural, procedural, and policy matters
 pertaining to the Internet and its enabling technologies.
 
 The members of the IAB are nominated by NomCom,
-and are approved by the ISOC board.  The IETF Chair is an ex-officio member
-of the board.
+and are confirmed by the Internet Society Board.
+The IETF Chair is also a member of the IAB, and the IRTF
+Chair is an ex-officio member.
 See {{NOMCOM}} for a detailed description of the NomCom procedures. Other
 matters concerning its organization and operation, are described in the IAB
 charter {{IAB}}.
@@ -253,7 +255,7 @@ IANA also is responsible for operating and maintaining
 
 ## Internet Research Task Force (IRTF)
 
-The IRTF focuses on longer term research issues related to the Internet while
+The IRTF focuses on longer-term research issues related to the Internet while
 the parallel organization, the Internet Engineering Task Force (IETF),
 focuses on the shorter term issues of engineering and standards making.
 
@@ -274,8 +276,10 @@ and operation of the IRTF, the ISRG, and its Research Groups may be found in
 
 ## The IETF Trust
 
-The IETF Trust holds the copyrights for IETF documents including RFCs, and
-copyright licenses for IETF contributions including Internet Drafts.  The
+The IETF Trust is the legal owner of a number of intellectual
+properties for the IETF and others (such as IANA).
+This includes the IETF trademarks,
+the copyright licenses for IETF contributions including Internet Drafts.  The
 principles for the copyright licenses are described in {{IPRRIGHTS1}}
 and {{COPYRIGHT}}, and the licenses themselves are online in the
 [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/).
@@ -303,7 +307,7 @@ The IETF Executive Director handles the daily tasks and management,
 and is overseen by the LLC Board of Directors.
 
 {{ISOCIETF, Section 6}} describes the legal relationship between the
-LLC and ISOC.
+LLC and the Internet Society.
 
 ## IETF Secretariat
 
@@ -314,19 +318,20 @@ meetings, and is responsible for
 maintaining the formal public record of the Internet standards
 process {{IETFPROCS}}.
 
-## Internet Society (ISOC)
+## Internet Society
 
-Internet standardization is an organized activity of the ISOC, with
+Internet standardization is an organized activity of the Internet Society,
+with
 the Board of Trustees being responsible for ratifying the procedures
 and rules of the Internet standards process {{ISOCIETF}}.
 
-ISOC also plays an important role in the standards process.
+The Internet Society  also plays an important role in the standards process.
 It appoints the NomCom Chair, confirms IAB candidates,
 and acts as the last resort in the appeals process.
 
-The way in which the members of the ISOC Board of Trustees are
+The way in which the members of the Internet Society  Board of Trustees are
 selected, and other matters concerning the operation of the Internet
-Society, are described in the ISOC By-Laws {{ISOC}}.
+Society, are described in their By-Laws {{ISOC}}.
 
 # Security Considerations
 
