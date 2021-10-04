@@ -23,39 +23,40 @@ author:
     email: rsalz@akamai.com
 normative:
   RFC2028: RFC2028
-  IANAMOU: RFC2860
   IANADOCS: BCP26
   MEETINGS: RFC8719
   IAB: BCP39
-  IESG: RFC3710
   IETFPROCS: BCP9
   IRTF: RFC2014
-  IABIRTF: RFC4440
-  IRTFPRIMER: RFC7418
-  IRTFCHAIR: RFC7827
   IPRRIGHTS1: BCP78
   IPRRIGHTS2: BCP79
   NOMCOM: BCP10
   WGPROCS: BCP25
+informative:
   ISOC:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
     title: Amended and restated By-Laws of the Internet Society
     date: March, 2021
-informative:
   ISOCIETF: RFC8712
   COPYRIGHT: RFC8721
   TRUSTEES: RFC8715
+  IABIRTF: RFC4440
+  IANAMOU: RFC2860
+  IESG: RFC3710
+  IRTFCHAIR: RFC7827
+  IRTFPRIMER: RFC7418
 
 --- abstract
 
 This document describes the individuals and organizations involved in
-the IETF standards process as described in {{IETFPROCS}}.
+the IETF standards process as described in IETF BCP 9.
 It includes brief descriptions of the entities involved,
 and the role they play in the standards process.
+This document obsoletes RFC 2028.
 
 --- middle
 
-# The IETF Standards Process
+# Introduction
 
 The process used by the IETF community for the standardization of
 protocols and procedures is described in {{IETFPROCS}}.
