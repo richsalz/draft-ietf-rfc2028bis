@@ -73,8 +73,7 @@ In general, this document refers to individual roles as individuals,
 such as "a Document Editor."
 In reality, many roles are filled by more than one person at the same
 time.
-For clarity, this document does not use phrases like "Chair (or co-chair),"
-unless strictly necessary to do so.
+For clarity, this document does not use phrases like "Chair (or co-chair)."
 
 # Key Individuals in the Process
 
