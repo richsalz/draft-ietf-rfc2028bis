@@ -67,15 +67,28 @@ during this process.
 This document identifies some of the key individual and organizations
 and the roles they play in that process.
 
-# Terminology
+## Terminology
 
-In general, this document refers to individual roles as individuals,
+This document refers to individual roles as individuals,
 such as "a Document Editor."
 In reality, many roles are filled by more than one person at the same
 time.
 For clarity, this document does not use phrases like "Chair (or co-chair)."
 
-# Key Individuals in the Process
+## Changes since RFC 2028
+
+The following changes have been made, in no particular order:
+
+- Added the role of Responsible AD and
+re-ordered {{individuals}} to follow the typical workflow.
+
+- Added the LLC and IETF Trust to {{organizations}},
+updated the description of the RFC Editor.
+
+- Added {{acknowledgements}} and {{terminology}} and cleaned up some wording
+throughout the document.
+
+# Key Individuals in the Process {#individuals}
 
 This section describes the individual roles involved in the process.
 It attempts to list the roles in the order in which they are involved
@@ -93,7 +106,7 @@ decisions that have been made by the Working Group.
 When a document is composed and edited mainly by an individual,
 they may be referred to as the Document Author. The distinction is
 not significant.
-This document will use the term Document Editor.
+This document uses the term Document Editor.
 
 When a Document Editor is a Chair of the same Working Group, a
 co-chair should manage the process around the document. If a co-chair is not
@@ -129,7 +142,7 @@ responsible both for the
 mechanics of RFC publication and for upholding the
 technical and editorial standards of the RFC series.
 
-# Key Organizations in the Process
+# Key Organizations in the Process {#organizations}
 
 The following organizations and organizational roles are involved in
 the Internet standards process.
@@ -341,8 +354,10 @@ This document introduces no new security considerations.
 
 This document has no IANA actions.
 
-# Acknowledgements
+# Acknowledgements {#acknowledgements}
 
-The author of this document would like to thank the IETF participants at the
-time {{RFC2028}} was written; in particular, those involved with the POISED
-effort and the authors of that document, Richard Hovey and Scott Bradner.
+The author of this document would like to thank the authors of
+{{RFC2028}}, Richard Hovey and Scott Bradner.
+
+Barry Lieba, Colin Perkins, Eric Auerswald, John Levin, and Lars Eggert
+provided useful feedback and corrections to this document.
