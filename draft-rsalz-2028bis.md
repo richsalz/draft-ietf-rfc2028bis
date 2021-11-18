@@ -1,7 +1,7 @@
 ---
 docname: draft-rsalz-2028bis-latest
 obsoletes: 2028
-title: Entitities Involved in the IETF Standards Process
+title: Entities Involved in the IETF Standards Process
 category: bcp
 workgroup: ???
 ipr: trust200902
