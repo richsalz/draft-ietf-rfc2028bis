@@ -32,6 +32,9 @@ normative:
   IPRRIGHTS2: BCP79
   NOMCOM: BCP10
   WGPROCS: BCP25
+  RFCEDMODEL:
+    target: https://www.ietf.org/archive/id/draft-iab-rfcefdp-rfced-model
+    title: RFC Editor Model (Version 3)
 informative:
   ISOC:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
@@ -82,8 +85,10 @@ The following changes have been made, in no particular order:
 - Added the role of Responsible AD and
 re-ordered {{individuals}} to follow the typical workflow.
 
-- Added the LLC and IETF Trust to {{organizations}},
-updated the description of the RFC Editor.
+- Added the LLC and IETF Trust to {{organizations}}.
+
+- Changed "RFC Editor" to RFC Production Center, and referenced
+the current editor model draft.
 
 - Added {{acknowledgements}} and {{terminology}} and cleaned up some wording
 throughout the document.
@@ -134,13 +139,6 @@ The Area Director assigned as the "Reponsible Area Director" for the
 Working Group will review the document after the Working Group has approved its
 last call, and when satisfied will request it to be put on the IESG
 agenda.
-
-## The Request for Comments Editor
-
-The RFC publication series {{IETFPROCS}} is managed by an Editor
-responsible both for the
-mechanics of RFC publication and for upholding the
-technical and editorial standards of the RFC series.
 
 # Key Organizations in the Process {#organizations}
 
@@ -246,6 +244,15 @@ Chair is an ex-officio member.
 See {{NOMCOM}} for a detailed description of the NomCom procedures. Other
 matters concerning its organization and operation, are described in the IAB
 charter {{IAB}}.
+
+## The RFC Production Center (RPC)
+
+Publication of RFCs is handled by the RFC Production Center including
+editorial preparation and publication.
+The roles and responsibilities are defined by a Working Group
+and an Advisory Board, and is overseen by the IETF LLC.
+See {{RFCEDMODEL}}, in particular Section 4 for the the
+complete details.
 
 ## Internet Assigned Numbers Authority (IANA)
 
@@ -356,8 +363,5 @@ This document has no IANA actions.
 
 # Acknowledgements {#acknowledgements}
 
-The author of this document would like to thank the authors of
-{{RFC2028}}, Richard Hovey and Scott Bradner.
-
-Barry Lieba, Colin Perkins, Eric Auerswald, John Levin, and Lars Eggert
+Barry Lieba, Colin Perkins, Eric Auerswald, John Levine, and Lars Eggert
 provided useful feedback and corrections to this document.
