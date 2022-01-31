@@ -33,7 +33,7 @@ normative:
   NOMCOM: BCP10
   WGPROCS: BCP25
   RFCEDMODEL:
-    target: https://www.ietf.org/archive/id/draft-iab-rfcefdp-rfced-model
+    target: https://datatracker.ietf.org/doc/draft-iab-rfcefdp-rfced-model/
     title: RFC Editor Model (Version 3)
 informative:
   ISOC:
