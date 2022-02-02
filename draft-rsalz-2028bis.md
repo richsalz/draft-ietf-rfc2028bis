@@ -247,12 +247,10 @@ charter {{IAB}}.
 
 ## The RFC Production Center (RPC)
 
-Publication of RFCs is handled by the RFC Production Center including
-editorial preparation and publication.
-The roles and responsibilities are defined by a Working Group
-and an Advisory Board, and is overseen by the IETF LLC.
-See {{RFCEDMODEL}}, in particular Section 4 for the the
-complete details.
+Publication of RFCs is handled by the RFC Production Center (RPC)
+including editorial preparation and publication.  The roles and
+responsibilities of the RPC are specified in [RFCEDMODEL], in
+particular Section 4.
 
 ## Internet Assigned Numbers Authority (IANA)
 
