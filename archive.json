@@ -1,0 +1,316 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-09-16T00:33:32.697934+00:00",
+  "repo": "richsalz/draft-ietf-rfc2028bis",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2,
+      "id": "MDU6SXNzdWU5ODc4NzYzMTA=",
+      "title": "Some nits",
+      "url": "https://github.com/richsalz/draft-ietf-rfc2028bis/issues/2",
+      "state": "CLOSED",
+      "author": "larseggert",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "From https://github.com/larseggert/ietf-reviewtool:\r\n```\r\n-------------------------------------------------------------------------------\r\nDISCUSS\r\n-------------------------------------------------------------------------------\r\nDOWNREF from this Best Current Practice doc to Informational [RFC5377].\r\n\r\nDOWNREF from this Best Current Practice doc to Informational [RFC8712].\r\n\r\nDOWNREF from this Best Current Practice doc to Informational [RFC8721].\r\n\r\nDOWNREF from this Best Current Practice doc to Informational [RFC8715].\r\n\r\n-------------------------------------------------------------------------------\r\nCOMMENT\r\n-------------------------------------------------------------------------------\r\n\r\nPossible DOWNREF from this Best Current Practice doc to [ISOC]. If so, the IESG\r\nneeds to approve it.\r\n\r\n-------------------------------------------------------------------------------\r\nNIT\r\n-------------------------------------------------------------------------------\r\nAll comments below are about very minor potential issues that you may choose to\r\naddress in some way - or ignore - as you see fit. Some were flagged by\r\nautomated tools (via https://github.com/larseggert/ietf-reviewtool), so there\r\nwill likely be some false positives. There is no need to let me know what you\r\ndid with these suggestions.\r\n\r\nSection 3.1. , paragraph 3, nit:\r\n>  must be monitored carefully to ensure ensure that the resulting documents ac\r\n>                                 ^^^^^^^^^^^^^\r\nPossible typo: you repeated a word.\r\n\r\nSection 3.2. , paragraph 2, nit:\r\n> the selection and responsibilites of an Working Group chair can be found in\r\n>                                      ^^\r\nUse \"a\" instead of \"an\" if the following word doesn't start with a vowel sound,\r\ne.g. \"a sentence\", \"a university\".\r\n\r\nSection 4.1. , paragraph 2, nit:\r\n> org/topics/areas/), each one under the the coordination of the Area Director\r\n>                                    ^^^^^^^\r\nTwo determiners in a row. Choose either \"the\" or \"the\".\r\n\r\nSection 4.3. , paragraph 2, nit:\r\n> s of the IESG are nominated by a nominations committee (colloquially, NomCom)\r\n>                                  ^^^^^^^^^^^\r\nAn apostrophe may be missing.\r\n\r\nSection 4.3. , paragraph 3, nit:\r\n> standards process [IETFPROCS]. In general it acts as source of advice to the\r\n>                                   ^^^^^^^\r\nA comma is probably missing here.\r\n\r\nObsolete reference to RFC5377, obsoleted by RFC8721 (this may be on purpose).\r\n``` ",
+      "createdAt": "2021-09-03T15:14:07Z",
+      "updatedAt": "2021-09-03T16:45:05Z",
+      "closedAt": "2021-09-03T16:45:05Z",
+      "comments": [
+        {
+          "author": "richsalz",
+          "authorAssociation": "OWNER",
+          "body": "fixed them, but left the downref to ISOC.  thanks.",
+          "createdAt": "2021-09-03T16:45:05Z",
+          "updatedAt": "2021-09-03T16:45:05Z"
+        }
+      ]
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "MDExOlB1bGxSZXF1ZXN0NzI0NzIwOTMw",
+      "title": "Add IETF Trust to draft-rsalz-2028bis.md",
+      "url": "https://github.com/richsalz/draft-ietf-rfc2028bis/pull/1",
+      "state": "MERGED",
+      "author": "jrlevine",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Include the IETF Trust",
+      "createdAt": "2021-09-01T17:44:31Z",
+      "updatedAt": "2021-09-01T18:05:36Z",
+      "baseRepository": "richsalz/draft-ietf-rfc2028bis",
+      "baseRefName": "main",
+      "baseRefOid": "28cc40534b28f098d209cdf59a9e9dafe6244287",
+      "headRepository": "jrlevine/draft-ietf-rfc2028bis",
+      "headRefName": "patch-1",
+      "headRefOid": "8f02b84df697aecd2a7360dba9eae04dd7f9c939",
+      "closedAt": "2021-09-01T18:03:33Z",
+      "mergedAt": "2021-09-01T18:03:33Z",
+      "mergedBy": "richsalz",
+      "mergeCommit": {
+        "oid": "641df8ac184ad450c06b7ab19c122b8b7ee7f179"
+      },
+      "comments": [
+        {
+          "author": "richsalz",
+          "authorAssociation": "OWNER",
+          "body": "I'll take it, and add the missing RFC normative references, thanks.  Pushed.",
+          "createdAt": "2021-09-01T18:05:36Z",
+          "updatedAt": "2021-09-01T18:05:36Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 3,
+      "id": "MDExOlB1bGxSZXF1ZXN0NzI3OTA1NzE2",
+      "title": "Nits",
+      "url": "https://github.com/richsalz/draft-ietf-rfc2028bis/pull/3",
+      "state": "MERGED",
+      "author": "auerswal",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "This pull request suggests a few improvements to readability by fixing some \"nits.\"",
+      "createdAt": "2021-09-06T12:10:39Z",
+      "updatedAt": "2021-09-07T16:47:51Z",
+      "baseRepository": "richsalz/draft-ietf-rfc2028bis",
+      "baseRefName": "main",
+      "baseRefOid": "617fccb71f62baa250062643d57d18a3b6caad4b",
+      "headRepository": null,
+      "headRefName": "nits",
+      "headRefOid": "e41787da9c21a7e617c53a38b2a397c18ed8e0a4",
+      "closedAt": "2021-09-07T14:47:44Z",
+      "mergedAt": "2021-09-07T14:47:44Z",
+      "mergedBy": "richsalz",
+      "mergeCommit": {
+        "oid": "6eaa3345e42cd2c23f4532b19db923085ce75ad7"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NzQ4MDcxMjYw",
+          "commit": {
+            "abbreviatedOid": "e41787d"
+          },
+          "author": "richsalz",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "Looks great, thanks for the fixes and increased consistency!",
+          "createdAt": "2021-09-07T14:46:57Z",
+          "updatedAt": "2021-09-07T14:46:57Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "MDExOlB1bGxSZXF1ZXN0NzMwNTYyMTIz",
+      "title": "Take Colin's text for IRTF description",
+      "url": "https://github.com/richsalz/draft-ietf-rfc2028bis/pull/4",
+      "state": "MERGED",
+      "author": "richsalz",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "richsalz"
+      ],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-09-09T13:02:40Z",
+      "updatedAt": "2021-09-14T16:06:45Z",
+      "baseRepository": "richsalz/draft-ietf-rfc2028bis",
+      "baseRefName": "main",
+      "baseRefOid": "f52f50ba134aff099d977a36c2ab1c81303fd773",
+      "headRepository": "richsalz/draft-ietf-rfc2028bis",
+      "headRefName": "rewrite-irtf",
+      "headRefOid": "35f8128a5ea0d0a401ca83dad383e3ca0900e4b9",
+      "closedAt": "2021-09-14T16:06:42Z",
+      "mergedAt": "2021-09-14T16:06:41Z",
+      "mergedBy": "richsalz",
+      "mergeCommit": {
+        "oid": "7b666ace0c1590cdb8fb81d0eaf709aaa1c30217"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NzUxMjIyMTc5",
+          "commit": {
+            "abbreviatedOid": "959d647"
+          },
+          "author": "larseggert",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2021-09-10T09:26:49Z",
+          "updatedAt": "2021-09-10T09:27:34Z",
+          "comments": [
+            {
+              "originalPosition": 36,
+              "body": "```suggestion\r\nsometimes develop experimental protocols or technologies, some of which may be suitable\r\n```",
+              "createdAt": "2021-09-10T09:26:49Z",
+              "updatedAt": "2021-09-10T09:27:34Z"
+            },
+            {
+              "originalPosition": 45,
+              "body": "```suggestion\r\n(\"members at large\") from the community. Details of the organization\r\n```",
+              "createdAt": "2021-09-10T09:27:22Z",
+              "updatedAt": "2021-09-10T09:27:34Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "MDExOlB1bGxSZXF1ZXN0NzMwNTc2NTE4",
+      "title": "Barry's feedback",
+      "url": "https://github.com/richsalz/draft-ietf-rfc2028bis/pull/5",
+      "state": "MERGED",
+      "author": "richsalz",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-09-09T13:18:28Z",
+      "updatedAt": "2021-09-14T16:02:26Z",
+      "baseRepository": "richsalz/draft-ietf-rfc2028bis",
+      "baseRefName": "main",
+      "baseRefOid": "26e8fcb57b508fcc3c14b5986078e974f5dd5765",
+      "headRepository": "richsalz/draft-ietf-rfc2028bis",
+      "headRefName": "barry-feedback",
+      "headRefOid": "2a4bf8eb711671312ebd1ed9162c07501cf62dbf",
+      "closedAt": "2021-09-14T16:02:23Z",
+      "mergedAt": "2021-09-14T16:02:23Z",
+      "mergedBy": "richsalz",
+      "mergeCommit": {
+        "oid": "f52f50ba134aff099d977a36c2ab1c81303fd773"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NzUxMjIzNjkz",
+          "commit": {
+            "abbreviatedOid": "57b5bd5"
+          },
+          "author": "larseggert",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "CHANGES_REQUESTED",
+          "body": "",
+          "createdAt": "2021-09-10T09:28:33Z",
+          "updatedAt": "2021-09-10T09:30:24Z",
+          "comments": [
+            {
+              "originalPosition": 21,
+              "body": "The IETF Chair is **not** an ex officio member of the IAB - they are a regular member.",
+              "createdAt": "2021-09-10T09:28:33Z",
+              "updatedAt": "2021-09-10T09:30:24Z"
+            },
+            {
+              "originalPosition": 37,
+              "body": "The Trust also holds other assets, such as for IANA.",
+              "createdAt": "2021-09-10T09:29:47Z",
+              "updatedAt": "2021-09-10T09:30:24Z"
+            },
+            {
+              "originalPosition": 46,
+              "body": "```suggestion\r\nLLC and the Internet Society.\r\n```",
+              "createdAt": "2021-09-10T09:30:03Z",
+              "updatedAt": "2021-09-10T09:30:24Z"
+            }
+          ]
+        },
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NzUxNDc1NzEx",
+          "commit": {
+            "abbreviatedOid": "2a4bf8e"
+          },
+          "author": "richsalz",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2021-09-10T14:29:02Z",
+          "updatedAt": "2021-09-10T14:29:02Z",
+          "comments": [
+            {
+              "originalPosition": 21,
+              "body": "Fixed, thanks.",
+              "createdAt": "2021-09-10T14:29:02Z",
+              "updatedAt": "2021-09-10T14:29:02Z"
+            }
+          ]
+        },
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NzUxNDc1OTY2",
+          "commit": {
+            "abbreviatedOid": "2a4bf8e"
+          },
+          "author": "richsalz",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2021-09-10T14:29:17Z",
+          "updatedAt": "2021-09-10T14:29:17Z",
+          "comments": [
+            {
+              "originalPosition": 37,
+              "body": "Fixed, thanks.  \"Among our weaponry are ... \"\r\n",
+              "createdAt": "2021-09-10T14:29:17Z",
+              "updatedAt": "2021-09-10T14:29:17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
