@@ -249,10 +249,15 @@ charter {{IAB}}.
 
 ## The RFC Production Center (RPC)
 
-Publication of RFCs is handled by the RFC Production Center (RPC),
-including editorial preparation and publication.  The roles and
-responsibilities of the RPC are specified in {{RFCEDMODEL}}, in
-particular Section 4.
+Publication of RFCs is handled by the RFC Production Center (RPC), including
+editorial preparation and publication.  RFC policy is defined by the RFC
+Series Working Group (RSWG), an open group, and approved by the RFC Advisory
+Board (RSAB), which has appointed members.  The RFC Series Consulting Editor
+(RSCE) is a position funded by the IETF LLC, with responsibilities to consult
+with all parties, and be a member of the advisory board.
+
+Full details on the roles and responsibilities of the RPC are specified in
+{{RFCEDMODEL}}, in particular Section 4.
 
 ## Internet Assigned Numbers Authority (IANA)
 
