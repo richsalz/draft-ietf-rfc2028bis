@@ -137,8 +137,8 @@ Group Chair can be found in {{WGPROCS}}.
 
 The Area Director (AD) assigned as the Reponsible Area Director for a
 Working Group will review documents after the Working Group has approved them
-following a last call. When satisfied, the AD will schedule an
-IETF last call (when needed) and will coordinate the IESG review and approval
+following a last call. When satisfied, the AD
+coordinates the IESG review and IETF last call of
 of the document.
 
 # Key Organizations in the Process {#organizations}
@@ -285,7 +285,7 @@ focuses on the shorter-term issues of engineering and standards making.
 
 The IRTF consists of a number of Research Groups (RGs) chartered to research
 various aspects related to the broader Internet.
-The products these RGs are typically research results that are
+The products of these RGs are typically research results that are
 often published in scholarly conferences and journals, but can also be published
 as RFCs on the IRTF's RFC stream. RGs also
 sometimes develop experimental protocols or technologies, some of which may be suitable
@@ -326,7 +326,7 @@ It regularly reports to the community.
 The LLC is the legal entity that signs contracts for the IETF
 Secretariat, meeting hotels, tools development contractors, among many others.
 The LLC also responds to legal requests; these are often subpoenas
-in patent suits.
+in patent lawsuits.
 
 Selection of the LLC Board of Directors is defined in {{NOMCOM}}.
 
