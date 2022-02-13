@@ -4,9 +4,9 @@
 
 ???                                                              R. Salz
 Internet-Draft                                       Akamai Technologies
-Obsoletes: 2028 (if approved)                           10 February 2022
+Obsoletes: 2028 (if approved)                           13 February 2022
 Intended status: Best Current Practice                                  
-Expires: 14 August 2022
+Expires: 17 August 2022
 
 
             Entities Involved in the IETF Standards Process
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 14 August 2022.
+   This Internet-Draft will expire on 17 August 2022.
 
 Copyright Notice
 
@@ -323,14 +323,17 @@ Table of Contents
 
 3.8.  The IETF Trust
 
-   The IETF Trust is the legal owner of a number of intellectual
-   properties for the IETF, IRTF and other related organizations (such
-   as IANA).  This includes the IETF trademarks, or copyright licenses
-   for IETF contributions including Internet Drafts.  The principles for
-   the copyright licenses are described in [IPRRIGHTS1] and [COPYRIGHT],
-   and the licenses themselves are documented in the Trust Legal
-   Provisions (https://trustee.ietf.org/documents/trust-legal-
-   provisions/).
+   The IETF Trust is the legal owner of intellectual property for the
+   IETF, IRTF, and IAB.  This includes their trademarks, the copyrights
+   to RFCs and to works of the IETF such as the IETF web site, and
+   copyright licenses for IETF contributions including Internet Drafts.
+   The principles for the copyright licenses granted to and from the
+   Trust are described in [IPRRIGHTS1] and [COPYRIGHT], and the licenses
+   themselves are in the Trust Legal Provisions
+   (https://trustee.ietf.org/documents/trust-legal-provisions/).
+
+   The Trust also currently owns IANA's domain names and trademarks
+   through an agreement with the IANA clients.
 
    The Trustees that govern the Trust are selected from the IETF
    community, as described in [TRUSTEES].
