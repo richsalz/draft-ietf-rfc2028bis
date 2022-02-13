@@ -303,13 +303,18 @@ and operation of the IRTF, the ISRG, and its RGs may be found in
 
 ## The IETF Trust
 
-The IETF Trust is the legal owner of a number of intellectual
-properties for the IETF, IRTF and other related organizations (such as IANA).
-This includes the IETF trademarks, or
-copyright licenses for IETF contributions including Internet Drafts.  The
-principles for the copyright licenses are described in {{IPRRIGHTS1}}
-and {{COPYRIGHT}}, and the licenses themselves are documented in the
+The IETF Trust is the legal owner of intellectual
+property for the IETF, IRTF, and IAB.
+This includes their trademarks, the copyrights to RFCs and to works
+of the IETF such as the IETF web site, and
+copyright licenses for IETF contributions including Internet Drafts.
+The principles for the copyright licenses granted to and from the
+Trust are described in {{IPRRIGHTS1}}
+and {{COPYRIGHT}}, and the licenses themselves are in the
 [Trust Legal Provisions](https://trustee.ietf.org/documents/trust-legal-provisions/).
+
+The Trust also currently owns IANA's domain names and trademarks through an
+agreement with the IANA clients.
 
 The Trustees that govern the Trust are selected from the IETF community, as
 described in {{TRUSTEES}}.
