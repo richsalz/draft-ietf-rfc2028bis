@@ -55,7 +55,10 @@ This document describes the individuals and organizations involved in
 the IETF standards process, as described in IETF BCP 9.
 It includes brief descriptions of the entities involved,
 and the role they play in the standards process.
-This document obsoletes RFC 2028.
+
+The IETF and its structure have undergone many changes since 1996, when RFC
+2028 was published.  This document reflects the changed IETF world and
+obsoletes RFC 2028.
 
 --- middle
 
@@ -375,6 +378,9 @@ This document introduces no new security considerations.
 This document has no IANA actions.
 
 # Acknowledgements {#acknowledgements}
+
+We are grateful to the authors of {{RFC2028}}, Richard Hovey and Scott
+Bradner.
 
 Barry Lieba, Colin Perkins, Eric Auerswald, John Levine, and Lars Eggert
 provided useful feedback and corrections to this document.
