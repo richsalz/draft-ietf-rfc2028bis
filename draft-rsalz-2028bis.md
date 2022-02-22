@@ -57,8 +57,8 @@ It includes brief descriptions of the entities involved,
 and the role they play in the standards process.
 
 The IETF and its structure have undergone many changes since 1996, when RFC
-2028 was published.  This document reflects the changed IETF world and
-obsoletes RFC 2028.
+2028 was published.  This document reflects the changed organizational
+structure of the IETF and obsoletes RFC 2028.
 
 --- middle
 
@@ -138,7 +138,7 @@ Group Chair can be found in {{WGPROCS}}.
 
 ## The Area Director
 
-The Area Director (AD) assigned as the Reponsible Area Director for a
+The Area Director (AD) assigned as the Responsible Area Director for a
 Working Group will review documents after the Working Group has approved them
 following a last call. When satisfied, the AD
 coordinates the IESG review and IETF last call of
