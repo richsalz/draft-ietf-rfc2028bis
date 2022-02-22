@@ -4,9 +4,9 @@
 
 ???                                                              R. Salz
 Internet-Draft                                       Akamai Technologies
-Obsoletes: 2028 (if approved)                           14 February 2022
+Obsoletes: 2028 (if approved)                           22 February 2022
 Intended status: Best Current Practice                                  
-Expires: 18 August 2022
+Expires: 26 August 2022
 
 
             Entities Involved in the IETF Standards Process
@@ -20,8 +20,8 @@ Abstract
    in the standards process.
 
    The IETF and its structure have undergone many changes since 1996,
-   when RFC 2028 was published.  This document reflects the changed IETF
-   world and obsoletes RFC 2028.
+   when RFC 2028 was published.  This document reflects the changed
+   organizational structure of the IETF and obsoletes RFC 2028.
 
 Discussion Venues
 
@@ -49,7 +49,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 18 August 2022.
+   This Internet-Draft will expire on 26 August 2022.
 
 Copyright Notice
 
@@ -167,8 +167,8 @@ Table of Contents
 
 2.3.  The Area Director
 
-   The Area Director (AD) assigned as the Reponsible Area Director for a
-   Working Group will review documents after the Working Group has
+   The Area Director (AD) assigned as the Responsible Area Director for
+   a Working Group will review documents after the Working Group has
    approved them following a last call.  When satisfied, the AD
    coordinates the IESG review and IETF last call of of the document.
 
@@ -557,5 +557,4 @@ Author's Address
 
    Rich Salz
    Akamai Technologies
-
    Email: rsalz@akamai.com
