@@ -152,7 +152,7 @@ the Internet standards process.
 ## Internet Engineering Task Force (IETF)
 
 The IETF is an open international
-community of network designers, operators, vendors, researchers,
+community of network designers, operators, implementors, researchers,
 and other interested parties who are
 concerned with the evolution of the Internet architecture and the
 smooth operation of the Internet.  It is the principal body engaged
@@ -254,7 +254,8 @@ charter {{IAB}}.
 
 Publication of RFCs is handled by the RFC Production Center (RPC), including
 editorial preparation and publication.  RFC policy is defined by the RFC
-Series Working Group (RSWG), an open group, and approved by the RFC Advisory
+Series Working Group (RSWG), an open group (like all IETF Working Groups),
+and approved by the RFC Advisory
 Board (RSAB), which has appointed members.  The RFC Series Consulting Editor
 (RSCE) is a position funded by the IETF LLC, with responsibilities to consult
 with all parties, and be a member of the advisory board.
