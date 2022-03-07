@@ -144,6 +144,9 @@ following a last call. When satisfied, the AD
 coordinates the IESG review and IETF last call of
 of the document.
 
+Except for the General Area,
+IETF Areas traditionally have multiple Area Directors.
+
 # Key Organizations in the Process {#organizations}
 
 The following organizations and organizational roles are involved in
