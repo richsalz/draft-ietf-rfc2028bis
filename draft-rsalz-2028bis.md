@@ -21,33 +21,32 @@ author:
     name: Rich Salz
     org: Akamai Technologies
     email: rsalz@akamai.com
-normative:
-  RFC2028: RFC2028
-  IANADOCS: BCP26
-  MEETINGS: RFC8719
-  IAB: BCP39
-  IETFPROCS: BCP9
-  IRTF: RFC2014
-  IPRRIGHTS1: BCP78
-  IPRRIGHTS2: BCP79
-  NOMCOM: BCP10
-  WGPROCS: BCP25
-  RFCEDMODEL:
-    target: https://datatracker.ietf.org/doc/draft-iab-rfcefdp-rfced-model/
-    title: RFC Editor Model (Version 3)
 informative:
+  IAB: BCP39
   ISOC:
     target: https://www.internetsociety.org/about-internet-society/governance-policies/by-laws/
     title: Amended and restated By-Laws of the Internet Society
     date: March, 2021
-  ISOCIETF: RFC8712
   COPYRIGHT: RFC8721
-  TRUSTEES: RFC8715
   IABIRTF: RFC4440
+  IANADOCS: BCP26
   IANAMOU: RFC2860
+  IETFPROCS: BCP9
   IESG: RFC3710
+  IPRRIGHTS1: BCP78
+  IPRRIGHTS2: BCP79
+  IRTF: RFC2014
   IRTFCHAIR: RFC7827
   IRTFPRIMER: RFC7418
+  ISOCIETF: RFC8712
+  MEETINGS: RFC8719
+  NOMCOM: BCP10
+  RFC2028: RFC2028
+  RFCEDMODEL:
+    target: https://datatracker.ietf.org/doc/draft-iab-rfcefdp-rfced-model/
+    title: RFC Editor Model (Version 3)
+  TRUSTEES: RFC8715
+  WGPROCS: BCP25
 
 --- abstract
 
