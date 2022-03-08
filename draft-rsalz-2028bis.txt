@@ -4,9 +4,9 @@
 
 ???                                                              R. Salz
 Internet-Draft                                       Akamai Technologies
-Obsoletes: 2028 (if approved)                               7 March 2022
+Obsoletes: 2028 (if approved)                               8 March 2022
 Intended status: Best Current Practice                                  
-Expires: 8 September 2022
+Expires: 9 September 2022
 
 
             Entities Involved in the IETF Standards Process
@@ -49,7 +49,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 September 2022.
+   This Internet-Draft will expire on 9 September 2022.
 
 Copyright Notice
 
@@ -277,9 +277,9 @@ Table of Contents
 
    Publication of RFCs is handled by the RFC Production Center (RPC),
    including editorial preparation and publication.  RFC policy is
-   defined by the RFC Series Working Group (RSWG), an open group (like
-   all IETF Working Groups), and approved by the RFC Advisory Board
-   (RSAB), which has appointed members.  The RFC Series Consulting
+   defined by the RFC Series Working Group (RSWG), an open group
+   (similar to IETF Working Groups), and approved by the RFC Advisory
+   Board (RSAB), which has appointed members.  The RFC Series Consulting
    Editor (RSCE) is a position funded by the IETF LLC, with
    responsibilities to consult with all parties, and be a member of the
    advisory board.
