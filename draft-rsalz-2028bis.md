@@ -257,7 +257,7 @@ charter {{IAB}}.
 
 Publication of RFCs is handled by the RFC Production Center (RPC), including
 editorial preparation and publication.  RFC policy is defined by the RFC
-Series Working Group (RSWG), an open group (like all IETF Working Groups),
+Series Working Group (RSWG), an open group (similar to IETF Working Groups),
 and approved by the RFC Advisory
 Board (RSAB), which has appointed members.  The RFC Series Consulting Editor
 (RSCE) is a position funded by the IETF LLC, with responsibilities to consult
