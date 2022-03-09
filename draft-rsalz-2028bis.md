@@ -95,7 +95,7 @@ re-ordered {{individuals}} to follow the typical workflow.
 - Added {{acknowledgements}} and {{terminology}} and cleaned up some wording
 throughout the document.
 
-# Key Individuals Roles in the Process {#individuals}
+# Key Individuals in the Process {#individuals}
 
 This section describes the individual roles involved in the process.
 It attempts to list the roles in the order in which they are involved
@@ -104,7 +104,7 @@ in the process, without otherwise expressing significance.
 ## The Document Editor or Author {#doceditor}
 
 Most Working Groups (WGs) focus their efforts on one or more documents
-that capture its work results.  A Working
+that capture their work results.  A Working
 Group generally designates a person to serve as the Editor
 for a particular document.  That Document Editor is responsible for
 ensuring that the contents of the document accurately reflect the
