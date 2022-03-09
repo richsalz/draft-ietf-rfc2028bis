@@ -125,21 +125,22 @@ of all parties involved in the document.
 ## The Working Group Chair {#wgchair}
 
 Each Working Group is headed by a Chair who has
-the responsibility for directing the group's activities, presiding
+the responsibility for facilitating the group's activities, presiding
 over the group's meetings, and ensuring that the commitments of the
 group with respect to its role in the Internet standards process are
 met. In particular, the WG Chair is the formal point of contact
 between the WG and the Internet Engineering Steering Group (IESG), via the AD of the area to
 which the WG belongs.
 
-The details on the selection and responsibilites of a Working
+The details on the selection and responsibilities of a Working
 Group Chair can be found in {{WGPROCS}}.
 
 ## The Area Director
 
-The Area Director (AD) assigned as the Responsible Area Director for a
-Working Group will review documents after the Working Group has approved them
-following a last call. When satisfied, the AD
+Each Working Group is assigned a responsible Area Director (AD). The AD can
+assist the WG chair in assessing consensus and executing process.
+The AD also reviews documents after the WG has approved them and,
+when satisfied, the AD
 coordinates the IESG review and IETF last call of
 of the document.
 
@@ -168,7 +169,10 @@ are organized by topics into several
 each one under the coordination of an Area Director.
 Working Groups typically have a narrow focus and a lifetime bounded
 by completion of specific tasks as defined in their charter
-and milestones.
+and milestones. Some Working Groups are long-lived intended to conduct
+ongoing maintenance on IETF protocol(s). There are also "dispatch" Working
+Groups whose role is to assess where new work in the IETF should be done,
+not directly produce standards.
 
 For all purposes relevant to the Internet Standards development
 process, membership in the IETF and its Working Groups is defined to
@@ -217,8 +221,9 @@ responsible for the management of the IETF technical
 activities.  It administers the Internet Standards process according
 to the rules and procedures defined in {{IETFPROCS}}.  The IESG is responsible
 for the actions associated with the progression of documents
-along the "standards track", including the initial
-approval of new Working Groups and the final approval of
+along the "IETF stream," including the initial
+approval of new Working Groups, any subsequent
+rechartering, and the final approval of
 documents.  The IESG is composed of the
 Area Directors and the IETF Chair, who also chairs the IESG and
 is the Area Director for the General Area.
@@ -287,7 +292,8 @@ IANA also is responsible for operating and maintaining
 
 The IRTF focuses on longer-term research issues related to the Internet as a
 parallel organization to the IETF, which
-focuses on the shorter-term issues of engineering and standards making.
+focuses on the shorter-term issues of engineering, operations, and
+specification of standards.
 
 The IRTF consists of a number of Research Groups (RGs) chartered to research
 various aspects related to the broader Internet.
