@@ -144,6 +144,9 @@ when satisfied, the AD
 coordinates the IESG review and IETF last call of
 of the document.
 
+An AD can also sponsor a draft directly, but this is not very common.
+When this is done, a Working Group is not involved.
+
 Except for the General Area,
 IETF Areas traditionally have multiple Area Directors.
 
