@@ -45,7 +45,8 @@ informative:
   RFCEDMODEL:
     target: https://datatracker.ietf.org/doc/draft-iab-rfcefdp-rfced-model/
     title: RFC Editor Model (Version 3)
-  TRUSTEES: RFC8715
+  TRUSTEES: RFC8714
+  TRUSTRAT: RFC8715
   WGPROCS: BCP25
 
 --- abstract
@@ -112,7 +113,7 @@ decisions that have been made by the Working Group.
 
 When a document is composed and edited mainly by an individual,
 they may be referred to as the Document Author. The distinction is
-not significant.
+not significant for the standards process.
 This document uses the term Document Editor.
 
 When a Document Editor is a Chair of the same Working Group, another
@@ -214,7 +215,7 @@ be found in {{WGPROCS}}.
 Working Groups ideally display a spirit of cooperation as well as a high
 degree of technical maturity; IETF participants recognize that the
 greatest benefit for all members of the Internet community results
-from cooperative development of technically superior protocols and
+from cooperative development of technically excellent protocols and
 services.
 
 ## Internet Engineering Steering Group (IESG)
@@ -243,7 +244,7 @@ organization and operation are described in the IESG charter {{IESG}}.
 
 The IAB provides oversight of the architecture of the Internet and its
 protocols.  The IAB approves IESG candidates put forward by the
-NomCom.
+NomCom. It also reviews all proposed WG charters.
 
 The IAB provides oversight of the standards process
 and serves as an appeal board for related complaints about improper
@@ -268,7 +269,7 @@ Series Working Group (RSWG), an open group (similar to IETF Working Groups),
 and approved by the RFC Advisory
 Board (RSAB), which has appointed members.  The RFC Series Consulting Editor
 (RSCE) is a position funded by the IETF LLC, with responsibilities to consult
-with all parties, and be a member of the advisory board.
+with all parties, and be a member of the RSAB.
 
 Full details on the roles and responsibilities of the RPC are specified in
 {{RFCEDMODEL}}, in particular Section 4.
@@ -332,7 +333,7 @@ The Trust also currently owns IANA's domain names and trademarks through an
 agreement with the IANA clients.
 
 The Trustees that govern the Trust are selected from the IETF community, as
-described in {{TRUSTEES}}.
+described in {{TRUSTEES}} and the rationale given in {{TRUSTRAT}}.
 
 ## IETF Administration LLC (IETF LLC)
 
