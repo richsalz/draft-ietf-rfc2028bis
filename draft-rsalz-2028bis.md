@@ -165,7 +165,7 @@ concerned with the evolution of the Internet architecture and the
 smooth operation of the Internet.  It is the principal body engaged
 in the development of new Internet Standard specifications and related documents.
 
-## Working Groups
+## Working Groups (WGs)
 
 The technical work of the IETF is done in its Working Groups, which
 are organized by topics into several
@@ -190,6 +190,8 @@ Anyone with the time and interest to do so is entitled and urged to
 participate actively in one or more Working Groups and to attend
 IETF meetings, which are usually held
 three times a year {{MEETINGS}}.
+A WG may also schedule interim meetings (virtual, in-person, or hybrid).
+These are scheduled and announced to the entire WG.
 Active Working Group participation is possible without attending
 any in-person meetings.
 
@@ -367,18 +369,14 @@ meetings, and is responsible for
 maintaining the formal public record of the Internet standards
 process {{IETFPROCS}}.
 
-## Internet Society
+## Internet Society (ISOC)
 
-Internet standardization is an organized activity of the Internet Society (ISOC),
-with
-the Board of Trustees being responsible for ratifying the procedures
-and rules of the Internet standards process {{ISOCIETF}}.
-
-The Internet Society  also plays an important role in the standards process.
+ISOC plays an important role in the standards process.
 It appoints the NomCom Chair, confirms IAB candidates selected by the NomCom,
 and acts as the final authority in the appeals process.
+This is described in {{ISOCIETF}}.
 
-The way in which the members of the Internet Society  Board of Trustees are
+The way in which the members of the Internet Society Board of Trustees are
 selected, and other matters concerning the operation of the Internet
 Society, are described in {{ISOC}}.
 
