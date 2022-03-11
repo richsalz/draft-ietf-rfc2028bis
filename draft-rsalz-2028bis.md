@@ -105,14 +105,15 @@ in the process, without otherwise expressing significance.
 ## The Document Editor or Author {#doceditor}
 
 Most Working Groups (WGs) focus their efforts on one or more documents
-that capture their work results.  A Working
-Group generally designates a person to serve as the Editor
-for a particular document.  That Document Editor is responsible for
+that capture their work results.  The Working
+Group Chair designates one or more people
+to serve as the Editor(s)
+for a particular document.  They are responsible for
 ensuring that the contents of the document accurately reflect the
 decisions that have been made by the Working Group.
 
-When a document is composed and edited mainly by an individual,
-they may be referred to as the Document Author. The distinction is
+When a document is composed and edited mainly by one or more individuals,
+they may be referred to as Document Authors. The distinction is
 not significant for the standards process.
 This document uses the term Document Editor.
 
@@ -138,7 +139,8 @@ Group Chair can be found in {{WGPROCS}}.
 
 ## The Area Director
 
-Each Working Group is assigned a responsible Area Director (AD). The AD can
+Each Working Group is assigned a single responsible Area Director (AD).
+The AD can
 assist the WG chair in assessing consensus and executing process.
 The AD also reviews documents after the WG has approved them and,
 when satisfied, the AD
@@ -372,11 +374,12 @@ process {{IETFPROCS}}.
 ## Internet Society (ISOC)
 
 ISOC plays an important role in the standards process.
-It appoints the NomCom Chair, confirms IAB candidates selected by the NomCom,
+In addition to being the legal entity that hosts the IETF LLC,
+ISOC appoints the NomCom Chair, confirms IAB candidates selected by the NomCom,
 and acts as the final authority in the appeals process.
 This is described in {{ISOCIETF}}.
 
-The way in which the members of the Internet Society Board of Trustees are
+The way in which the the ISOC leadership is
 selected, and other matters concerning the operation of the Internet
 Society, are described in {{ISOC}}.
 
