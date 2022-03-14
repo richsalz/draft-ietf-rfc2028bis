@@ -4,9 +4,9 @@
 
 ???                                                              R. Salz
 Internet-Draft                                       Akamai Technologies
-Obsoletes: 2028 (if approved)                              10 March 2022
+Obsoletes: 2028 (if approved)                              14 March 2022
 Intended status: Best Current Practice                                  
-Expires: 11 September 2022
+Expires: 15 September 2022
 
 
             Entities Involved in the IETF Standards Process
@@ -49,7 +49,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 11 September 2022.
+   This Internet-Draft will expire on 15 September 2022.
 
 Copyright Notice
 
@@ -61,9 +61,9 @@ Copyright Notice
    license-info) in effect on the date of publication of this document.
    Please review these documents carefully, as they describe your rights
    and restrictions with respect to this document.  Code Components
-   extracted from this document must include Revised BSD License text as
-   described in Section 4.e of the Trust Legal Provisions and are
-   provided without warranty as described in the Revised BSD License.
+   extracted from this document must include Simplified BSD License text
+   as described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Simplified BSD License.
 
 Table of Contents
 
@@ -76,7 +76,7 @@ Table of Contents
      2.3.  The Area Director
    3.  Key Organizations in the Process
      3.1.  Internet Engineering Task Force (IETF)
-     3.2.  Working Groups
+     3.2.  Working Groups (WGs)
      3.3.  Internet Engineering Steering Group (IESG)
      3.4.  Internet Architecture Board (IAB)
      3.5.  The RFC Production Center (RPC)
@@ -85,7 +85,7 @@ Table of Contents
      3.8.  The IETF Trust
      3.9.  IETF Administration LLC (IETF LLC)
      3.10. IETF Secretariat
-     3.11. Internet Society
+     3.11. Internet Society (ISOC)
    4.  Security Considerations
    5.  IANA Considerations
    6.  Acknowledgements
@@ -132,16 +132,16 @@ Table of Contents
 2.1.  The Document Editor or Author
 
    Most Working Groups (WGs) focus their efforts on one or more
-   documents that capture their work results.  A Working Group generally
-   designates a person to serve as the Editor for a particular document.
-   That Document Editor is responsible for ensuring that the contents of
-   the document accurately reflect the decisions that have been made by
-   the Working Group.
+   documents that capture their work results.  The Working Group Chair
+   designates one or more people to serve as the Editor(s) for a
+   particular document.  They are responsible for ensuring that the
+   contents of the document accurately reflect the decisions that have
+   been made by the Working Group.
 
-   When a document is composed and edited mainly by an individual, they
-   may be referred to as the Document Author.  The distinction is not
-   significant for the standards process.  This document uses the term
-   Document Editor.
+   When a document is composed and edited mainly by one or more
+   individuals, they may be referred to as Document Authors.  The
+   distinction is not significant for the standards process.  This
+   document uses the term Document Editor.
 
    When a Document Editor is a Chair of the same Working Group, another
    Chair should manage the process around the document.  If another
@@ -166,11 +166,11 @@ Table of Contents
 
 2.3.  The Area Director
 
-   Each Working Group is assigned a responsible Area Director (AD).  The
-   AD can assist the WG chair in assessing consensus and executing
-   process.  The AD also reviews documents after the WG has approved
-   them and, when satisfied, the AD coordinates the IESG review and IETF
-   last call of of the document.
+   Each Working Group is assigned a single responsible Area Director
+   (AD).  The AD can assist the WG chair in assessing consensus and
+   executing process.  The AD also reviews documents after the WG has
+   approved them and, when satisfied, the AD coordinates the IESG review
+   and IETF last call of of the document.
 
    An AD can also sponsor a draft directly, but this is not very common.
    When this is done, a Working Group is not involved.
@@ -192,7 +192,7 @@ Table of Contents
    engaged in the development of new Internet Standard specifications
    and related documents.
 
-3.2.  Working Groups
+3.2.  Working Groups (WGs)
 
    The technical work of the IETF is done in its Working Groups, which
    are organized by topics into several Areas
@@ -213,9 +213,11 @@ Table of Contents
 
    Anyone with the time and interest to do so is entitled and urged to
    participate actively in one or more Working Groups and to attend IETF
-   meetings, which are usually held three times a year [MEETINGS].
-   Active Working Group participation is possible without attending any
-   in-person meetings.
+   meetings, which are usually held three times a year [MEETINGS].  A WG
+   may also schedule interim meetings (virtual, in-person, or hybrid).
+   These are scheduled and announced to the entire WG.  Active Working
+   Group participation is possible without attending any in-person
+   meetings.
 
    Participants in the IETF and its Working Groups must disclose any
    relevant current or pending intellectual property rights that are
@@ -326,9 +328,9 @@ Table of Contents
    develop experimental protocols or technologies, some of which may be
    suitable for possible standardization in IETF.  Similarly, IETF
    working groups sometimes ask RGs for advice or other input.
-   Contributions from RGs, however, carry no more weight in the IETF
-   than other community input, and go through the same standards setting
-   process as any other proposal.
+   Contributions from RGs, however, in general carry no more weight in
+   the IETF than other community input, and go through the same
+   standards setting process as any other proposal.
 
    The IRTF is managed by the IRTF Chair in consultation with the
    Internet Research Steering Group (IRSG).  The IRSG membership
@@ -385,21 +387,17 @@ Table of Contents
    meetings, and is responsible for maintaining the formal public record
    of the Internet standards process [IETFPROCS].
 
-3.11.  Internet Society
+3.11.  Internet Society (ISOC)
 
-   Internet standardization is an organized activity of the Internet
-   Society (ISOC), with the Board of Trustees being responsible for
-   ratifying the procedures and rules of the Internet standards process
-   [ISOCIETF].
+   ISOC plays an important role in the standards process.  In addition
+   to being the legal entity that hosts the IETF LLC, ISOC appoints the
+   NomCom Chair, confirms IAB candidates selected by the NomCom, and
+   acts as the final authority in the appeals process.  This is
+   described in [ISOCIETF].
 
-   The Internet Society also plays an important role in the standards
-   process.  It appoints the NomCom Chair, confirms IAB candidates
-   selected by the NomCom, and acts as the final authority in the
-   appeals process.
-
-   The way in which the members of the Internet Society Board of
-   Trustees are selected, and other matters concerning the operation of
-   the Internet Society, are described in [ISOC].
+   The way in which the the ISOC leadership is selected, and other
+   matters concerning the operation of the Internet Society, are
+   described in [ISOC].
 
 4.  Security Considerations
 
@@ -423,7 +421,7 @@ Table of Contents
               Halpern, J., Ed., "Advice to the Trustees of the IETF
               Trust on Rights to Be Granted in IETF Documents",
               RFC 8721, DOI 10.17487/RFC8721, February 2020,
-              <https://www.rfc-editor.org/rfc/rfc8721>.
+              <https://doi.org/10.17487/RFC8721>.
 
    [IAB]      Internet Architecture Board and B. Carpenter, Ed.,
               "Charter of the Internet Architecture Board (IAB)",
@@ -434,7 +432,7 @@ Table of Contents
    [IABIRTF]  Floyd, S., Ed., Paxson, V., Ed., Falk, A., Ed., and IAB,
               "IAB Thoughts on the Role of the Internet Research Task
               Force (IRTF)", RFC 4440, DOI 10.17487/RFC4440, March 2006,
-              <https://www.rfc-editor.org/rfc/rfc4440>.
+              <https://doi.org/10.17487/RFC4440>.
 
    [IANADOCS] Cotton, M., Leiba, B., and T. Narten, "Guidelines for
               Writing an IANA Considerations Section in RFCs", BCP 26,
@@ -446,11 +444,11 @@ Table of Contents
               Understanding Concerning the Technical Work of the
               Internet Assigned Numbers Authority", RFC 2860,
               DOI 10.17487/RFC2860, June 2000,
-              <https://www.rfc-editor.org/rfc/rfc2860>.
+              <https://doi.org/10.17487/RFC2860>.
 
    [IESG]     Alvestrand, H., "An IESG charter", RFC 3710,
               DOI 10.17487/RFC3710, February 2004,
-              <https://www.rfc-editor.org/rfc/rfc3710>.
+              <https://doi.org/10.17487/RFC3710>.
 
    [IETFPROCS]
               Bradner, S., "The Internet Standards Process -- Revision
@@ -495,17 +493,17 @@ Table of Contents
 
    [IRTF]     Weinrib, A. and J. Postel, "IRTF Research Group Guidelines
               and Procedures", BCP 8, RFC 2014, DOI 10.17487/RFC2014,
-              October 1996, <https://www.rfc-editor.org/rfc/rfc2014>.
+              October 1996, <https://doi.org/10.17487/RFC2014>.
 
    [IRTFCHAIR]
               Eggert, L., "The Role of the IRTF Chair", RFC 7827,
               DOI 10.17487/RFC7827, March 2016,
-              <https://www.rfc-editor.org/rfc/rfc7827>.
+              <https://doi.org/10.17487/RFC7827>.
 
    [IRTFPRIMER]
               Dawkins, S., Ed., "An IRTF Primer for IETF Participants",
               RFC 7418, DOI 10.17487/RFC7418, December 2014,
-              <https://www.rfc-editor.org/rfc/rfc7418>.
+              <https://doi.org/10.17487/RFC7418>.
 
    [ISOC]     "Amended and restated By-Laws of the Internet Society",
               March 2021, <https://www.internetsociety.org/about-
@@ -513,11 +511,11 @@ Table of Contents
 
    [ISOCIETF] Camarillo, G. and J. Livingood, "The IETF-ISOC
               Relationship", RFC 8712, DOI 10.17487/RFC8712, February
-              2020, <https://www.rfc-editor.org/rfc/rfc8712>.
+              2020, <https://doi.org/10.17487/RFC8712>.
 
    [MEETINGS] Krishnan, S., "High-Level Guidance for the Meeting Policy
               of the IETF", BCP 226, RFC 8719, DOI 10.17487/RFC8719,
-              February 2020, <https://www.rfc-editor.org/rfc/rfc8719>.
+              February 2020, <https://doi.org/10.17487/RFC8719>.
 
    [NOMCOM]   Kucherawy, M., Ed., Hinden, R., Ed., and J. Livingood,
               Ed., "IAB, IESG, IETF Trust, and IETF LLC Selection,
@@ -533,7 +531,7 @@ Table of Contents
    [RFC2028]  Hovey, R. and S. Bradner, "The Organizations Involved in
               the IETF Standards Process", BCP 11, RFC 2028,
               DOI 10.17487/RFC2028, October 1996,
-              <https://www.rfc-editor.org/rfc/rfc2028>.
+              <https://doi.org/10.17487/RFC2028>.
 
    [RFCEDMODEL]
               "RFC Editor Model (Version 3)", n.d.,
@@ -543,12 +541,12 @@ Table of Contents
    [TRUSTEES] Arkko, J. and T. Hardie, "Update to the Process for
               Selection of Trustees for the IETF Trust", BCP 101,
               RFC 8714, DOI 10.17487/RFC8714, February 2020,
-              <https://www.rfc-editor.org/rfc/rfc8714>.
+              <https://doi.org/10.17487/RFC8714>.
 
    [TRUSTRAT] Arkko, J., "IETF Administrative Support Activity 2.0:
               Update to the Process for Selection of Trustees for the
               IETF Trust", RFC 8715, DOI 10.17487/RFC8715, February
-              2020, <https://www.rfc-editor.org/rfc/rfc8715>.
+              2020, <https://doi.org/10.17487/RFC8715>.
 
    [WGPROCS]  Bradner, S., "IETF Working Group Guidelines and
               Procedures", BCP 25, RFC 2418, September 1998.
@@ -571,4 +569,5 @@ Author's Address
 
    Rich Salz
    Akamai Technologies
+
    Email: rsalz@akamai.com
