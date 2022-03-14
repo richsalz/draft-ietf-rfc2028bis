@@ -61,9 +61,9 @@ Copyright Notice
    license-info) in effect on the date of publication of this document.
    Please review these documents carefully, as they describe your rights
    and restrictions with respect to this document.  Code Components
-   extracted from this document must include Simplified BSD License text
-   as described in Section 4.e of the Trust Legal Provisions and are
-   provided without warranty as described in the Simplified BSD License.
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
 
 Table of Contents
 
@@ -421,7 +421,7 @@ Table of Contents
               Halpern, J., Ed., "Advice to the Trustees of the IETF
               Trust on Rights to Be Granted in IETF Documents",
               RFC 8721, DOI 10.17487/RFC8721, February 2020,
-              <https://doi.org/10.17487/RFC8721>.
+              <https://www.rfc-editor.org/rfc/rfc8721>.
 
    [IAB]      Internet Architecture Board and B. Carpenter, Ed.,
               "Charter of the Internet Architecture Board (IAB)",
@@ -432,7 +432,7 @@ Table of Contents
    [IABIRTF]  Floyd, S., Ed., Paxson, V., Ed., Falk, A., Ed., and IAB,
               "IAB Thoughts on the Role of the Internet Research Task
               Force (IRTF)", RFC 4440, DOI 10.17487/RFC4440, March 2006,
-              <https://doi.org/10.17487/RFC4440>.
+              <https://www.rfc-editor.org/rfc/rfc4440>.
 
    [IANADOCS] Cotton, M., Leiba, B., and T. Narten, "Guidelines for
               Writing an IANA Considerations Section in RFCs", BCP 26,
@@ -444,11 +444,11 @@ Table of Contents
               Understanding Concerning the Technical Work of the
               Internet Assigned Numbers Authority", RFC 2860,
               DOI 10.17487/RFC2860, June 2000,
-              <https://doi.org/10.17487/RFC2860>.
+              <https://www.rfc-editor.org/rfc/rfc2860>.
 
    [IESG]     Alvestrand, H., "An IESG charter", RFC 3710,
               DOI 10.17487/RFC3710, February 2004,
-              <https://doi.org/10.17487/RFC3710>.
+              <https://www.rfc-editor.org/rfc/rfc3710>.
 
    [IETFPROCS]
               Bradner, S., "The Internet Standards Process -- Revision
@@ -493,17 +493,17 @@ Table of Contents
 
    [IRTF]     Weinrib, A. and J. Postel, "IRTF Research Group Guidelines
               and Procedures", BCP 8, RFC 2014, DOI 10.17487/RFC2014,
-              October 1996, <https://doi.org/10.17487/RFC2014>.
+              October 1996, <https://www.rfc-editor.org/rfc/rfc2014>.
 
    [IRTFCHAIR]
               Eggert, L., "The Role of the IRTF Chair", RFC 7827,
               DOI 10.17487/RFC7827, March 2016,
-              <https://doi.org/10.17487/RFC7827>.
+              <https://www.rfc-editor.org/rfc/rfc7827>.
 
    [IRTFPRIMER]
               Dawkins, S., Ed., "An IRTF Primer for IETF Participants",
               RFC 7418, DOI 10.17487/RFC7418, December 2014,
-              <https://doi.org/10.17487/RFC7418>.
+              <https://www.rfc-editor.org/rfc/rfc7418>.
 
    [ISOC]     "Amended and restated By-Laws of the Internet Society",
               March 2021, <https://www.internetsociety.org/about-
@@ -511,11 +511,11 @@ Table of Contents
 
    [ISOCIETF] Camarillo, G. and J. Livingood, "The IETF-ISOC
               Relationship", RFC 8712, DOI 10.17487/RFC8712, February
-              2020, <https://doi.org/10.17487/RFC8712>.
+              2020, <https://www.rfc-editor.org/rfc/rfc8712>.
 
    [MEETINGS] Krishnan, S., "High-Level Guidance for the Meeting Policy
               of the IETF", BCP 226, RFC 8719, DOI 10.17487/RFC8719,
-              February 2020, <https://doi.org/10.17487/RFC8719>.
+              February 2020, <https://www.rfc-editor.org/rfc/rfc8719>.
 
    [NOMCOM]   Kucherawy, M., Ed., Hinden, R., Ed., and J. Livingood,
               Ed., "IAB, IESG, IETF Trust, and IETF LLC Selection,
@@ -531,7 +531,7 @@ Table of Contents
    [RFC2028]  Hovey, R. and S. Bradner, "The Organizations Involved in
               the IETF Standards Process", BCP 11, RFC 2028,
               DOI 10.17487/RFC2028, October 1996,
-              <https://doi.org/10.17487/RFC2028>.
+              <https://www.rfc-editor.org/rfc/rfc2028>.
 
    [RFCEDMODEL]
               "RFC Editor Model (Version 3)", n.d.,
@@ -541,12 +541,12 @@ Table of Contents
    [TRUSTEES] Arkko, J. and T. Hardie, "Update to the Process for
               Selection of Trustees for the IETF Trust", BCP 101,
               RFC 8714, DOI 10.17487/RFC8714, February 2020,
-              <https://doi.org/10.17487/RFC8714>.
+              <https://www.rfc-editor.org/rfc/rfc8714>.
 
    [TRUSTRAT] Arkko, J., "IETF Administrative Support Activity 2.0:
               Update to the Process for Selection of Trustees for the
               IETF Trust", RFC 8715, DOI 10.17487/RFC8715, February
-              2020, <https://doi.org/10.17487/RFC8715>.
+              2020, <https://www.rfc-editor.org/rfc/rfc8715>.
 
    [WGPROCS]  Bradner, S., "IETF Working Group Guidelines and
               Procedures", BCP 25, RFC 2418, September 1998.
@@ -569,5 +569,4 @@ Author's Address
 
    Rich Salz
    Akamai Technologies
-
    Email: rsalz@akamai.com
