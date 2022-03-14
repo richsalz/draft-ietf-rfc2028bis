@@ -311,7 +311,8 @@ as RFCs on the IRTF's RFC stream. RGs also
 sometimes develop experimental protocols or technologies, some of which may be suitable
 for possible standardization in IETF. Similarly, IETF working groups
 sometimes ask RGs for advice or other input.  Contributions from
-RGs, however, carry no more weight in the IETF than other community input,
+RGs, however, in general
+carry no more weight in the IETF than other community input,
 and go through the same standards setting process as any other proposal.
 
 The IRTF is managed by the IRTF Chair in consultation with the Internet
